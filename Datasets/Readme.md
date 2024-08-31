@@ -1,7 +1,7 @@
 🏠 [**Inicio**](../Readme.md)
 
 <div align="center">
-    <img src="BEDU.JPG">
+    <img src="../BEDU.JPG">
 </div>
 
 ---
