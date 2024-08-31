@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="BEDU.jpg" alt="Sesion_01">
+    <img src="BEDU.JPG">
 </div>
 
 ## 🎯 Objetivo del Curso
