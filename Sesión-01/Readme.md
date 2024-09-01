@@ -1,4 +1,4 @@
-🏠 [**Inicio**](../Readme.md) ➡️ / 📖 `Sesión 01`
+🏠 [**Inicio**](../README.md) ➡️ / 📖 `Sesión 01`
 
 <div align="center">
     <img src="../BEDU.JPG" alt="Sesion_01">
