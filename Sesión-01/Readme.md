@@ -26,7 +26,7 @@ En el prework podrás encontrar la parte teórica que utilizaremos para realizar
 
 La Inteligencia Artificial se refiere a la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos. Estas simulaciones incluyen el aprendizaje (la adquisición de información y reglas para usar la información), el razonamiento (usar reglas para llegar a conclusiones aproximadas o definitivas), y la autocorrección. En pocas palabras, la IA es la capacidad de una máquina para imitar funciones cognitivas que los humanos asocian con otras mentes humanas, como el aprendizaje y la resolución de problemas.
 
-#### 📜 **[Actividad 01: Identificación del tipo de aprendizaje](Sesión-01/Actividad 01 - Identificación del tipo de aprendizaje/README.md)**
+#### 📜 **[Actividad 01: Identificación del tipo de aprendizaje](Sesión-01/Actividad-01/README.md)**
 #### 🔥 **[Actividad 02: Actividad 02 - Análisis crítico de modelos de machine learning](Actividad 02 - Análisis crítico de modelos de machine learning/README.md)**
 
 ---
