@@ -6,10 +6,10 @@
 
 ## 🎯 Objetivo
 
-⚒️ Comprenderás los conceptos básicos de inteligencia artificial y machine learning.
-⚒️ Diferenciarás entre los enfoques tradicionales y los basados en machine learning.
-⚒️ Aplicarás principios básicos para evaluar y mejorar modelos de machine learning
-.
+- ⚒️ Comprenderás los conceptos básicos de inteligencia artificial y machine learning.
+- ⚒️ Diferenciarás entre los enfoques tradicionales y los basados en machine learning.
+- ⚒️ Aplicarás principios básicos para evaluar y mejorar modelos de machine learning
+
 
 ---
 
