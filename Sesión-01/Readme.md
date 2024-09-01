@@ -6,7 +6,10 @@
 
 ## 🎯 Objetivo
 
-⚒️ Desarrollar la capacidad para calcular y interpretar estimaciones de locación y variabilidad en conjuntos de datos estructurados.
+⚒️ Comprenderás los conceptos básicos de inteligencia artificial y machine learning.
+⚒️ Diferenciarás entre los enfoques tradicionales y los basados en machine learning.
+⚒️ Aplicarás principios básicos para evaluar y mejorar modelos de machine learning
+.
 
 ---
 
