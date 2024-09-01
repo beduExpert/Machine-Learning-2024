@@ -8,7 +8,7 @@
 
 ## 📚 Contenido del Curso
 
-1. 🤖 [Sesión 01: Introducción al aprendizaje automático.]: 
+1. 🤖 [Sesión 01: Introducción al aprendizaje automático.](Sesión-01) 
 2. 🌳 [Sesión 02: Árboles de decisión y K-means.]
 3. 📈 [Sesión 03: Regresión lineal y regresión logística.]
 4. 🧠 [Sesión 04: Redes neuronales.]
