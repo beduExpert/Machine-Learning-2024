@@ -4,7 +4,7 @@
     <img src="../BEDU.JPG" alt="Sesion_01">
 </div>
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
 - ⚒️ Comprenderás los conceptos básicos de inteligencia artificial y machine learning.
 - ⚒️ Diferenciarás entre los enfoques tradicionales y los basados en machine learning.
