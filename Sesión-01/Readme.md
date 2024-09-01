@@ -14,7 +14,7 @@
 ---
 
 📘 Material del prework:
-Antes de comenzar con los ejercicios de esta sesión, recordemos que en el material de prework hemos cubierto los fundamentos teóricos que aplicaremos hoy. A lo largo de esta sesión, pondremos en práctica estos conceptos mediante una serie de ejercicios y retos diseñados para reforzar y validar nuestro entendimiento. 
+En el prework podrás encontrar la parte teórica que utilizaremos para realizar los ejercicios de esta sesión. 
 🔥¡Vamos a comenzar!🔥
 
 ---
@@ -22,24 +22,31 @@ Antes de comenzar con los ejercicios de esta sesión, recordemos que en el mater
 ## 📂 Temas de la sesión...
 
 
-### 📖 Datos estructurados y estimados de locación
+### 📖 ¿Qué es la inteligencia artificial?
 
-Los datos estructurados puedes estar divididos en dos tipos: cuantitativos y cualitativos. Los cuantitativos pueden ser discretos o continuos, mientras que los cualitativos pueden ser binarios, nominales u ordinales, son datos que pueden ser analizados y resumidos mediante estimados de locación como la media, mediana y moda, para comprender mejor como se distribuyen los datos.
+La Inteligencia Artificial se refiere a la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos. Estas simulaciones incluyen el aprendizaje (la adquisición de información y reglas para usar la información), el razonamiento (usar reglas para llegar a conclusiones aproximadas o definitivas), y la autocorrección. En pocas palabras, la IA es la capacidad de una máquina para imitar funciones cognitivas que los humanos asocian con otras mentes humanas, como el aprendizaje y la resolución de problemas.
 
-#### 📜 **[Ejemplo 01: Datos estructurados y estimados de locación](Ejemplo-01/Readme.md)**
+#### 📜 **[Actividad 01 01: Identificación del tipo de aprendizaje](Ejemplo-01/Readme.md)**
 #### 🔥 **[Reto 01: Análisis de estimados de locación en datos de laptops](Reto-01/Readme.md)**
 ---
 
-### 📖 Valores atípicos y estimados de variabilidad
+### 📖 Conceptos básicos de machine learning
 
 Los valores atípicos son aquellos que se encuentran muy alejados del resto de los datos, y pueden afectar el cálculo de estimados de locación y variabilidad. Los estimados de variabilidad nos permiten entender la dispersión de los datos con respecto a la media, y son útiles para identificar valores atípicos u `(outliers)`.
 
-#### 📜 **[Ejemplo 02: Valores atípicos y estimados de variabilidad](Ejemplo-02/Readme.md)**
+#### 📜 **[Identificación del tipo de aprendizaje](Ejemplo-02/Readme.md)**
 #### 🔥 **[Reto 02: Análisis en datos de salarios](Reto-02/Readme.md)**
 
 ---
 
-### 📖 Estadísticos de orden y distribución
+### 📖 Entrenamiento
+
+Los estadísticos de orden son medidas que nos permiten entender la posición de un valor con respecto a los demás, como los cuartiles y percentiles. Estos estadísticos son útiles para entender la distribución de los datos y comparar diferentes conjuntos de datos, por ejemplo comprender que porcentaje de estudiantes obtuvo una calificación mayor a 80.
+
+#### 📜 **[Ejemplo 03: Estadísticos de orden y distribución](Ejemplo-03/Readme.md)**
+#### 🔥 **[Reto 03: Cuartiles y percentiles en tiempo de estudio](Reto-03/Readme.md)**
+
+### 📖 Métricas de evaluación
 
 Los estadísticos de orden son medidas que nos permiten entender la posición de un valor con respecto a los demás, como los cuartiles y percentiles. Estos estadísticos son útiles para entender la distribución de los datos y comparar diferentes conjuntos de datos, por ejemplo comprender que porcentaje de estudiantes obtuvo una calificación mayor a 80.
 
