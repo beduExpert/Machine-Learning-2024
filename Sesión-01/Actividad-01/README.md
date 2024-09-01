@@ -5,7 +5,7 @@ En esta actividad, aplicarás tus conocimientos para determinar si un problema e
 
 ---
 ## 📑 Instrucciones
-1. Con la ayuda del profesor, corre el siguiente programa (https://github.com/beduExpert/Machine-Learning-2024/blob/main/Sesi%C3%B3n-02/Actividad-01/Actividad%2001%20-%20Decision%20Tree%20-%20F%C3%A1rmacos.ipynb)
+1. Con la ayuda del profesor, corre el siguiente programa [Actividad 01](https://github.com/beduExpert/Machine-Learning-2024/blob/main/Sesi%C3%B3n-02/Actividad-01/Actividad%2001%20-%20Decision%20Tree%20-%20F%C3%A1rmacos.ipynb)
 
 
 
