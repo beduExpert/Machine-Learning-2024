@@ -30,17 +30,17 @@ La Inteligencia Artificial se refiere a la simulación de procesos de inteligenc
 
 ### 📖 Conceptos básicos de machine learning
 
-Los valores atípicos son aquellos que se encuentran muy alejados del resto de los datos, y pueden afectar el cálculo de estimados de locación y variabilidad. Los estimados de variabilidad nos permiten entender la dispersión de los datos con respecto a la media, y son útiles para identificar valores atípicos u `(outliers)`.
+El machine learning (aprendizaje automático) es una rama de la inteligencia artificial que se enfoca en desarrollar algoritmos que permiten a las máquinas aprender y mejorar a partir de datos sin ser programadas explícitamente para cada tarea específica. En lugar de seguir instrucciones detalladas, las máquinas construyen modelos basados en datos, que luego utilizan para hacer predicciones o tomar decisiones
 
 ---
 
 ### 📖 Entrenamiento
 
-Los estadísticos de orden son medidas que nos permiten entender la posición de un valor con respecto a los demás, como los cuartiles y percentiles. Estos estadísticos son útiles para entender la distribución de los datos y comparar diferentes conjuntos de datos, por ejemplo comprender que porcentaje de estudiantes obtuvo una calificación mayor a 80.
+Entrenar un algoritmo de machine learning es un proceso clave en el cual tu modelo aprende a partir de los datos para realizar predicciones o tomar decisiones. Este proceso implica varias etapas fundamentales que te aseguran que el modelo pueda generalizar bien a datos nuevos y desconocidos.
 
 ### 📖 Métricas de evaluación
 
-Los estadísticos de orden son medidas que nos permiten entender la posición de un valor con respecto a los demás, como los cuartiles y percentiles. Estos estadísticos son útiles para entender la distribución de los datos y comparar diferentes conjuntos de datos, por ejemplo comprender que porcentaje de estudiantes obtuvo una calificación mayor a 80.
+En machine learning, las métricas de evaluación son esenciales para determinar cómo de bien se desempeña un modelo en su tarea específica. Estas métricas te permiten cuantificar el rendimiento del modelo en datos de prueba y, por lo tanto, son cruciales para comparar diferentes modelos, ajustar hiperparámetros, y entender mejor las debilidades y fortalezas de tus algoritmos.
 
 ---
 
