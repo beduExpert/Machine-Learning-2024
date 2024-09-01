@@ -20,25 +20,33 @@ En el prework podrás encontrar la parte teórica que utilizaremos para realizar
 ## 📂 Temas de la sesión...
 
 
-### 📖 ¿Qué es la inteligencia artificial?
+### 📖 Introducción a los árboles de decisión
 
-La Inteligencia Artificial se refiere a la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos. Estas simulaciones incluyen el aprendizaje (la adquisición de información y reglas para usar la información), el razonamiento (usar reglas para llegar a conclusiones aproximadas o definitivas), y la autocorrección. En pocas palabras, la IA es la capacidad de una máquina para imitar funciones cognitivas que los humanos asocian con otras mentes humanas, como el aprendizaje y la resolución de problemas.
-
----
-
-### 📖 Conceptos básicos de machine learning
-
-El machine learning (aprendizaje automático) es una rama de la inteligencia artificial que se enfoca en desarrollar algoritmos que permiten a las máquinas aprender y mejorar a partir de datos sin ser programadas explícitamente para cada tarea específica. En lugar de seguir instrucciones detalladas, las máquinas construyen modelos basados en datos, que luego utilizan para hacer predicciones o tomar decisiones
+Los árboles de decisión son una de las herramientas más útiles en machine learning debido a su simplicidad y facilidad de interpretación. Son especialmente efectivos para problemas de clasificación y regresión, ya que te permiten dividir los datos en subconjuntos más pequeños y homogéneos basados en características específicas. En este subtema, explorarás los conceptos básicos y los elementos que componen los árboles de decisión, además de conocer sus ventajas, desventajas y aplicaciones prácticas.
 
 ---
 
-### 📖 Entrenamiento
+### 📖 Construcción de un árbol de decisión
 
-Entrenar un algoritmo de machine learning es un proceso clave en el cual tu modelo aprende a partir de los datos para realizar predicciones o tomar decisiones. Este proceso implica varias etapas fundamentales que te aseguran que el modelo pueda generalizar bien a datos nuevos y desconocidos.
+En este subtema, te sumergirás en el proceso de construcción de un árbol de decisión. Aprenderás cómo elegir las características más importantes y cómo decidir dónde dividir los datos para crear un modelo efectivo. También descubrirás diferentes algoritmos utilizados para construir árboles de decisión, como el algoritmo CART (Classification and Regression Trees) y cómo estos algoritmos manejan la división de los datos en función de métricas de impureza.
 
-### 📖 Métricas de evaluación
+---
 
-En machine learning, las métricas de evaluación son esenciales para determinar cómo de bien se desempeña un modelo en su tarea específica. Estas métricas te permiten cuantificar el rendimiento del modelo en datos de prueba y, por lo tanto, son cruciales para comparar diferentes modelos, ajustar hiperparámetros, y entender mejor las debilidades y fortalezas de tus algoritmos.
+### 📖 Introducción al algoritmo K-means
+
+El algoritmo K-means es uno de los algoritmos de agrupamiento más utilizados en el aprendizaje no supervisado. Su objetivo principal es dividir un conjunto de datos en k grupos o clusters distintos. Cada cluster está formado por datos que comparten características similares, mientras que los datos de diferentes clusters son lo más distintos posible. Este método es particularmente útil cuando necesitas descubrir patrones o estructuras ocultas en datos sin etiquetar.
+
+### 📖 Algoritmo K-means
+
+El algoritmo K-means consiste en los siguientes pasos:
+1. Inicialización: Primero, seleccionas k puntos aleatorios del conjunto de datos. Estos puntos iniciales actúan como los centroides de los clusters. Es crucial cómo eliges estos centroides iniciales, ya que afectará el resultado final del algoritmo. En la Fig. 3 podemos observar estos puntos en color rojo.
+
+2.	Asignación de Clusters: Para cada punto de datos en el conjunto, calculas la distancia entre ese punto y cada uno de los centroides. Luego, asignas el punto al cluster cuyo centroide esté más cerca. La distancia más comúnmente utilizada es la distancia euclidiana, pero otras métricas como la distancia Manhattan o la distancia coseno también pueden ser aplicadas dependiendo de la naturaleza del problema.
+
+3.	Recalcular Centroides: Una vez que todos los puntos han sido asignados a un cluster, recalculas los centroides de cada cluster. Esto se hace tomando el promedio de todos los puntos de datos que pertenecen al cluster.
+
+4.	Repetir hasta Convergencia: Los pasos de asignación de clusters y recalculo de centroides se repiten hasta que los centroides ya no cambien significativamente o hasta que se alcance un número máximo de iteraciones. Este punto de estabilidad se conoce como "convergencia". En la Fig. 4 se observa que cada uno de los tres centroides se ha movido hacia cada uno de los clusters de tal manera que la distancia promedio es la mínima.
+
 
 ---
 
