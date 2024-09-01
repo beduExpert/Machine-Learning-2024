@@ -44,11 +44,11 @@ En machine learning, las métricas de evaluación son esenciales para determinar
 
 ---
 
-### 📖 Actividades
+### ✏️ Actividades
 
-#### 📜 **[Actividad 01: Identificación del tipo de aprendizaje](/Sesión-01/Actividad-01/README.md)**
-#### 🔥 **[Actividad 02: Actividad 02 - Análisis crítico de modelos de machine learning](/Sesión-01/Actividad-02/README.md)**
+#### 📕 **[Actividad 01: Identificación del tipo de aprendizaje](/Sesión-01/Actividad-01/README.md)**
+#### 📕 **[Actividad 02: Actividad 02 - Análisis crítico de modelos de machine learning](/Sesión-01/Actividad-02/README.md)**
 
 ---
 
-⬅️ [**Anterior**](../Readme.md) | [**Siguiente**](../Sesion-02/Readme.md)➡️
+⬅️ [**Anterior**](../README.md) | [**Siguiente**](../Sesion-02/Readme.md)➡️
