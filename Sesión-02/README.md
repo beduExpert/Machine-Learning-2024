@@ -39,22 +39,24 @@ El algoritmo K-means es uno de los algoritmos de agrupamiento más utilizados en
 ### 📖 Algoritmo K-means
 
 El algoritmo K-means consiste en los siguientes pasos:
-1. Inicialización: Primero, seleccionas k puntos aleatorios del conjunto de datos. Estos puntos iniciales actúan como los centroides de los clusters. Es crucial cómo eliges estos centroides iniciales, ya que afectará el resultado final del algoritmo. En la Fig. 3 podemos observar estos puntos en color rojo.
+**1. Inicialización:** Primero, seleccionas k puntos aleatorios del conjunto de datos. Estos puntos iniciales actúan como los centroides de los clusters. Es crucial cómo eliges estos centroides iniciales, ya que afectará el resultado final del algoritmo. En la Fig. 3 podemos observar estos puntos en color rojo.
 
-2.	Asignación de Clusters: Para cada punto de datos en el conjunto, calculas la distancia entre ese punto y cada uno de los centroides. Luego, asignas el punto al cluster cuyo centroide esté más cerca. La distancia más comúnmente utilizada es la distancia euclidiana, pero otras métricas como la distancia Manhattan o la distancia coseno también pueden ser aplicadas dependiendo de la naturaleza del problema.
+**2.	Asignación de Clusters:** Para cada punto de datos en el conjunto, calculas la distancia entre ese punto y cada uno de los centroides. Luego, asignas el punto al cluster cuyo centroide esté más cerca. La distancia más comúnmente utilizada es la distancia euclidiana, pero otras métricas como la distancia Manhattan o la distancia coseno también pueden ser aplicadas dependiendo de la naturaleza del problema.
 
-3.	Recalcular Centroides: Una vez que todos los puntos han sido asignados a un cluster, recalculas los centroides de cada cluster. Esto se hace tomando el promedio de todos los puntos de datos que pertenecen al cluster.
+**3.	Recalcular Centroides:** Una vez que todos los puntos han sido asignados a un cluster, recalculas los centroides de cada cluster. Esto se hace tomando el promedio de todos los puntos de datos que pertenecen al cluster.
 
-4.	Repetir hasta Convergencia: Los pasos de asignación de clusters y recalculo de centroides se repiten hasta que los centroides ya no cambien significativamente o hasta que se alcance un número máximo de iteraciones. Este punto de estabilidad se conoce como "convergencia". En la Fig. 4 se observa que cada uno de los tres centroides se ha movido hacia cada uno de los clusters de tal manera que la distancia promedio es la mínima.
+**4.	Repetir hasta Convergencia:** Los pasos de asignación de clusters y recalculo de centroides se repiten hasta que los centroides ya no cambien significativamente o hasta que se alcance un número máximo de iteraciones. Este punto de estabilidad se conoce como "convergencia". En la Fig. 4 se observa que cada uno de los tres centroides se ha movido hacia cada uno de los clusters de tal manera que la distancia promedio es la mínima.
 
 
 ---
 
 ### ✏️ Actividades
 
-#### 📕 **[Actividad 01: Identificación del tipo de aprendizaje](/Sesión-01/Actividad-01/README.md)**
-#### 📕 **[Actividad 02: Análisis crítico de modelos de machine learning](/Sesión-01/Actividad-02/README.md)**
+#### 📕 **[Actividad 01: Encontrando el mejor fármaco](/Sesión-02/Actividad-01/README.md)**
+#### 📕 **[Actividad 02: Catando vinos](/Sesión-02/Actividad-02/README.md)**
+#### 📕 **[Actividad 03: Segmentación de clientes](/Sesión-02/Actividad-03/README.md)**
+#### 📕 **[Actividad 04: Usuarios de tarjeta de crédito](/Sesión-02/Actividad-04/README.md)**
 
 ---
 
-⬅️ [**Anterior**](../README.md) | [**Siguiente**](../Sesion-02/README.md)➡️
+⬅️ [**Anterior**](../Sesion-01/README.md) | [**Siguiente**](../Sesion-02/README.md)➡️
