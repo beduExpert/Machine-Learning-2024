@@ -45,13 +45,13 @@ Considera un problema que podrías enfrentar en el futuro. ¿Cómo determinaría
 **2. ¿Cómo Aplicarías estos Conocimientos en un Proyecto Real?**
  Imagina que te han encargado un proyecto en tu carrera profesional. ¿Cómo aplicarías lo que has aprendido para decidir el enfoque de aprendizaje? Piensa en las preguntas clave que te harías antes de comenzar: ¿Qué tipo de datos tienes? ¿Cuál es el objetivo final del modelo? ¿Cómo justificarías tu elección ante un equipo o un cliente?
  
-**¿Qué Factores Considerarías al Tomar una Decisión?**
+**3. ¿Qué Factores Considerarías al Tomar una Decisión?**
 Reflexiona sobre los factores que podrían influir en tu decisión entre aprendizaje supervisado y no supervisado. ¿Qué tan importantes son el tiempo de desarrollo, la precisión del modelo, o la capacidad de interpretar los resultados? ¿Cómo equilibrarías estas consideraciones en un entorno profesional?
  
-**¿Cómo Adaptarías tu Estrategia a Diferentes Escenarios?**
+**4. ¿Cómo Adaptarías tu Estrategia a Diferentes Escenarios?**
 Piensa en cómo podrías adaptar tu enfoque si las condiciones del proyecto cambian. ¿Qué harías si se te proporcionan más datos, o si el objetivo del proyecto evoluciona? ¿Estás preparado para ajustar tu enfoque de acuerdo con nuevas circunstancias y desafíos?
  
-**¿Qué Has Aprendido sobre la Toma de Decisiones en Machine Learning?**
+**5. ¿Qué Has Aprendido sobre la Toma de Decisiones en Machine Learning?**
 Finalmente, reflexiona sobre lo que este ejercicio te ha enseñado sobre la toma de decisiones en Machine Learning. ¿Te sientes más seguro en tu capacidad para elegir el enfoque adecuado? ¿Qué aspectos consideras que aún necesitas explorar o practicar más?
 
 
