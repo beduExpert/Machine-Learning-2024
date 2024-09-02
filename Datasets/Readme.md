@@ -18,7 +18,7 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
    - 🔗 [Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
    - 🔗[Credit Card Customer Dataset](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
 3. 📁 [Sesión 03: Regresión lineal y regresión logística.]
-   - 🔗 []()
+   - 🔗 [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)
    - 🔗 []()
    - 🔗 []()
    - 🔗 []()
