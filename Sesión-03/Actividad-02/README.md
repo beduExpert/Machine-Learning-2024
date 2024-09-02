@@ -7,18 +7,31 @@ En esta actividad, de manera independiente, tu objetivo es aplicar la regresión
 
 ## 📑 Instrucciones
 1.	Con la ayuda del profesor, corre el siguiente [Actividad 02 - Simple Linear Regression - Predicción de precio de coches.ipynb](https://github.com/beduExpert/Machine-Learning-2024/blob/35fe9e611bdc213668cf635c3e796b222451d80e/Sesi%C3%B3n-03/Actividad-02/Actividad%2002%20-%20Simple%20Linear%20Regression%20-%20Predicci%C3%B3n%20de%20precio%20de%20coches.ipynb)
+
 2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download)
+
 3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
+
 4.	Realiza tus observaciones y anotaciones para futuras referencias
+
 5.	Revisión de Conceptos Clave: Antes de comenzar, asegúrate de comprender los principios básicos de la regresión lineal. Revisa las notas de clase y los materiales proporcionados para tener una base sólida.
+
 6.	Carga y Exploración de Datos: Utiliza el conjunto de datos proporcionado que contiene información sobre diferentes coches. Examina las variables disponibles, identifica posibles valores faltantes o errores, y familiarízate con el formato de los datos.
+
 7.	Preprocesamiento de Datos: Prepara el conjunto de datos para el análisis. Esto incluye la normalización o estandarización de variables numéricas, la codificación de variables categóricas (como 'fueltype', 'carbody', etc.), y la separación del conjunto de datos en conjuntos de entrenamiento y prueba.
+
 8.	Construcción del Modelo: Utiliza una herramienta como Python y la biblioteca Scikit-Learn para construir un modelo de regresión lineal. Asegúrate de seleccionar la variable objetivo correcta (el precio del coche) y ajustar el modelo a los datos de entrenamiento.
+
 9.	Evaluación del Modelo: Evalúa el rendimiento de tu modelo usando el conjunto de datos de prueba. Calcula métricas como el error cuadrático medio (MSE), el coeficiente de determinación (R^2), y el error absoluto medio (MAE) para evaluar la precisión de tus predicciones.
+
 10.	Interpretación de Resultados: Analiza los coeficientes del modelo para entender cómo cada variable afecta el precio del coche. Reflexiona sobre qué variables tienen mayor impacto y cómo influyen en el precio final.¿
+
 11.	Optimización: Si es necesario, ajusta los hiperparámetros del modelo o prueba técnicas de regularización para mejorar su rendimiento. Vuelve a entrenar y evaluar el modelo para observar si los ajustes realizados han mejorado las predicciones.
+
 12.	Documentación: Prepara un informe detallado que describa el proceso de construcción del modelo, las decisiones tomadas durante el preprocesamiento de datos, los resultados de la evaluación y recomendaciones para mejorar el modelo.
+
 13.	Presentación de Resultados: Comparte tus hallazgos con la clase mediante una presentación breve. Explica el proceso de construcción del modelo, los resultados obtenidos y lo que aprendiste a lo largo de la actividad.
+
 14.	Reflexión: Al finalizar, reflexiona sobre lo aprendido y considera cómo puedes aplicar estos conocimientos a otros problemas de predicción en el futuro. Piensa en cómo diferentes variables pueden influir en la estimación de precios y en cómo estos conceptos se pueden aplicar en situaciones prácticas.
 
 
