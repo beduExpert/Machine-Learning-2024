@@ -59,4 +59,4 @@ El algoritmo K-means consiste en los siguientes pasos:
 
 ---
 
-⬅️ [**Anterior**](../Sesión-01/Readme.md) | [**Siguiente**](../Sesión-02/Readme.md)➡️
+⬅️ [**Anterior**](../Sesión-01/Readme.md) | [**Siguiente**](../Sesión-03/Readme.md)➡️
