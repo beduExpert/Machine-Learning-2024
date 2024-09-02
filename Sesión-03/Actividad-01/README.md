@@ -6,9 +6,10 @@ Con la ayuda del instructor, el objetivo de esta actividad es que desarrolles la
 ---
 
 ## 📑 Instrucciones
-1.	Utiliza el código de la [actividad 03](../Actividad-03/Actividad_03_K_means_Customer_Segmentation.ipynb) y modifícalo para hacer uso del dataset [Credit Card Customer Data](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
-2.	Analiza bien las variables para saber cuáles son las más relevantes
-3.	Realiza tus observaciones y anotaciones para futuras referencias
+1. Con la ayuda del profesor, ejecuta el siguiente [Programa]()
+2.	Utiliza el código de la [actividad 03](Actividad 01 - Simple Linear Regression - Insurance.ipynb)
+3.	Analiza bien las variables para saber cuáles son las más relevantes
+4.	Realiza tus observaciones y anotaciones para futuras referencias
 
 ---
 
