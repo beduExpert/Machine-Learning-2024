@@ -17,7 +17,7 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
    - 🔗[Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
    - 🔗 [Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
    - 🔗[Credit Card Customer Dataset](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
-3. 📁 [Sesión 03: Regresión lineal y regresión logística.]
+3. 📁 [Sesión 03: Regresión lineal y regresión logística.](../Sesión-03/)
    - 🔗 [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)
    - 🔗 [Car Price Prediction Dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download)
    - 🔗 [Diabetes2 Dataset](https://www.kaggle.com/datasets/cjboat/diabetes2)
