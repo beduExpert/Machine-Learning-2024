@@ -1,6 +1,6 @@
 # **Actividad 03 - Segmentación de clientes**
 
-# 🎯 **Objetivo**
+## 🎯 **Objetivo**
 
 En esta actividad, tu objetivo es aplicar el algoritmo K-means para segmentar clientes en diferentes grupos basados en características como frecuencia de compra, valor monetario promedio, recencia, variedad de productos y descuentos utilizados. Utilizarás K-means para identificar patrones y agrupar a los clientes en segmentos significativos. Evaluarás la efectividad de la segmentación analizando las características comunes dentro de cada grupo y cómo estas pueden influir en las estrategias de marketing y personalización de ofertas. Reflexionarás sobre cómo la segmentación de clientes puede mejorar la comprensión del comportamiento del cliente y optimizar las estrategias de marketing y ventas.
 
