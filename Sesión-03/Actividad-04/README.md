@@ -8,7 +8,7 @@ En esta actividad, se espera que apliques la regresión logística de manera ind
 ## 📑 Instrucciones
 1.	Con la ayuda del profesor, corre el siguiente [Programa](https://github.com/beduExpert/Machine-Learning-2024/blob/e14f70d6c1c7c04e9e8bf65471e93952ad3640c4/Sesi%C3%B3n-03/Actividad-04/Actividad%2004%20-%20Logistic%20Regression%20-%20Breast%20Cancer.ipynb)
 
-2.	Descarga el dataset que utilizarás del siguiente [enlace]([https://www.kaggle.com/datasets/cjboat/diabetes2](https://www.kaggle.com/datasets/marshuu/breast-cancer))
+2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/marshuu/breast-cancer)
 
 3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
 
