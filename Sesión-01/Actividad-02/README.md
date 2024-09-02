@@ -34,8 +34,8 @@ Para entrenar y evaluar el modelo, los datos se dividieron de la siguiente maner
 •	Conjunto de Prueba (25%): Este conjunto se reservó exclusivamente para evaluar el rendimiento final del modelo, asegurando que los resultados sean representativos y no sesgados por el proceso de ajuste.
 
 📈 **Resultados de Diferentes Experimentos** <br />
-Precisión en Validación: 93%
-Precisión en Prueba: 72%
+* Precisión en Validación: 93%
+* Precisión en Prueba: 72%
 
 
 
