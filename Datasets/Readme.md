@@ -19,9 +19,9 @@ Si deseas obtener más información sobre los datasets utilizados en el módulo,
    - 🔗[Credit Card Customer Dataset](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
 3. 📁 [Sesión 03: Regresión lineal y regresión logística.]
    - 🔗 [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)
-   - 🔗 []()
-   - 🔗 []()
-   - 🔗 []()
+   - 🔗 [Car Price Prediction Dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download)
+   - 🔗 [Diabetes2 Dataset](https://www.kaggle.com/datasets/cjboat/diabetes2)
+   - 🔗 [Breast cancer (cleaned) Dataset](https://www.kaggle.com/datasets/marshuu/breast-cancer)
 4. 📁 [Sesión 04: Redes neuronales.]
 5. 📁 [Sesión 05: Redes neuronales convolucionales.]
 6. 📁 [Sesión 06: Redes neuronales recurrentes.]
