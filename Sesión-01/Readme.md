@@ -51,4 +51,4 @@ En machine learning, las métricas de evaluación son esenciales para determinar
 
 ---
 
-⬅️ [**Anterior**](../README.md) | [**Siguiente**](../Sesion-02/Readme.md)➡️
+⬅️ [**Anterior**](../README.md) | [**Siguiente**](../Sesion-02/README.md)➡️
