@@ -8,12 +8,14 @@ En esta actividad, tu objetivo es aplicar el algoritmo K-means para segmentar cl
 
 ## 📑 Instrucciones
 1.	Con la ayuda del profesor, corre el siguiente [programa](Actividad_03_K_means_Customer_Segmentation.ipynb)
+2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
+4.	Realiza tus observaciones y anotaciones para futuras referencias
 
 ---
 
 ## ❓ **Momento de introspección**
 
-Mientras trabajas en la aplicación del algoritmo de árboles de decisión para clasificar la calidad de los vinos, reflexiona sobre el impacto de tus hallazgos. Pregúntate cómo la clasificación de vinos en diferentes categorías de calidad puede revelar información valiosa sobre las características que influyen en la calidad del producto. Considera cómo la interpretación de las reglas del árbol de decisión puede ayudarte a identificar qué factores son más determinantes para la calidad del vino y cómo podrías usar esta información para optimizar procesos en la producción vinícola. Piensa en cómo tus resultados pueden contribuir a una mejor selección y comercialización de vinos, así como a la mejora continua en la industria.
-
+Mientras trabajas en la segmentación de clientes utilizando el algoritmo K-means, es importante que reflexiones sobre el impacto de la segmentación en la estrategia empresarial. Pregúntate cómo la agrupación de clientes en segmentos puede revelar patrones en sus comportamientos de compra y cómo estos insights pueden ser utilizados para diseñar estrategias de marketing más efectivas. Considera cómo la calidad de la segmentación afecta la capacidad de personalizar las ofertas y mejorar la satisfacción del cliente. Reflexiona también sobre la importancia de elegir el número adecuado de clústeres y cómo esta decisión influye en la interpretación de los resultados y en la toma de decisiones empresariales. Piensa en cómo tus hallazgos pueden contribuir a una mejor comprensión del comportamiento del cliente y a la optimización de las campañas de marketing.
 
 
