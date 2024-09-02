@@ -30,21 +30,21 @@ En esta actividad, has trabajado con la regresión lineal para predecir el preci
 
 Preguntas para Reflexionar:
 
-1.	¿Cómo puedes aplicar la regresión lineal a problemas del mundo real? Considera otras áreas donde la regresión lineal podría ser útil, como en la predicción de precios de productos, la evaluación de riesgos en otros tipos de seguros, o en la estimación de costos en proyectos.
+**1.	¿Cómo puedes aplicar la regresión lineal a problemas del mundo real?** Considera otras áreas donde la regresión lineal podría ser útil, como en la predicción de precios de productos, la evaluación de riesgos en otros tipos de seguros, o en la estimación de costos en proyectos.
 
-2.	¿Qué aspectos del preprocesamiento de datos fueron más desafiantes? Reflexiona sobre las dificultades que encontraste al limpiar y preparar los datos. ¿Cómo puedes mejorar tus habilidades en esta área para futuros proyectos?
+**2.	¿Qué aspectos del preprocesamiento de datos fueron más desafiantes?** Reflexiona sobre las dificultades que encontraste al limpiar y preparar los datos. ¿Cómo puedes mejorar tus habilidades en esta área para futuros proyectos?
 
-3.	¿Cómo influyen las variables en la precisión del modelo? Piensa en cómo cada una de las variables utilizadas (edad, sexo, IMC, hijos, fumador, región) impactó en la predicción del precio del seguro. ¿Hubo alguna variable que tuvo un impacto inesperado? ¿Cómo podrías ajustar tu modelo para manejar mejor estas influencias?
+**3.	¿Cómo influyen las variables en la precisión del modelo?** Piensa en cómo cada una de las variables utilizadas (edad, sexo, IMC, hijos, fumador, región) impactó en la predicción del precio del seguro. ¿Hubo alguna variable que tuvo un impacto inesperado? ¿Cómo podrías ajustar tu modelo para manejar mejor estas influencias?
 
-4.	¿Qué aprendiste sobre la interpretación de los resultados del modelo? Considera cómo los coeficientes del modelo reflejan la relación entre las variables y el precio del seguro. ¿Cómo puedes usar esta información para hacer recomendaciones o tomar decisiones basadas en los resultados?
+**4.	¿Qué aprendiste sobre la interpretación de los resultados del modelo?** Considera cómo los coeficientes del modelo reflejan la relación entre las variables y el precio del seguro. ¿Cómo puedes usar esta información para hacer recomendaciones o tomar decisiones basadas en los resultados?
 
-5.	¿Cómo puedes mejorar el rendimiento del modelo? Reflexiona sobre las técnicas de optimización y regularización que exploraste. ¿Qué ajustes adicionales podrías hacer para mejorar la precisión de las predicciones?
+**5.	¿Cómo puedes mejorar el rendimiento del modelo?** Reflexiona sobre las técnicas de optimización y regularización que exploraste. ¿Qué ajustes adicionales podrías hacer para mejorar la precisión de las predicciones?
 
-6.	¿Cómo podrías aplicar estos conceptos a otros tipos de modelos de predicción? Piensa en cómo los principios de la regresión lineal se relacionan con otros algoritmos de aprendizaje automático. ¿Cómo podrías utilizar tus conocimientos en regresión lineal para abordar problemas de clasificación o de predicción más complejos?
+**6.	¿Cómo podrías aplicar estos conceptos a otros tipos de modelos de predicción?** Piensa en cómo los principios de la regresión lineal se relacionan con otros algoritmos de aprendizaje automático. ¿Cómo podrías utilizar tus conocimientos en regresión lineal para abordar problemas de clasificación o de predicción más complejos?
 
-7.	¿Qué desafíos enfrentaste al construir y evaluar tu modelo? Reflexiona sobre los problemas que encontraste y cómo los resolviste. ¿Qué podrías hacer de manera diferente la próxima vez para evitar estos desafíos?
+**7.	¿Qué desafíos enfrentaste al construir y evaluar tu modelo?** Reflexiona sobre los problemas que encontraste y cómo los resolviste. ¿Qué podrías hacer de manera diferente la próxima vez para evitar estos desafíos?
 
-8.	¿Cómo puede la regresión lineal ayudarte a tomar decisiones basadas en datos? Considera cómo los modelos de regresión lineal pueden proporcionar información valiosa en contextos prácticos, como en la toma de decisiones empresariales o en la planificación de estrategias de marketing.
+**8.	¿Cómo puede la regresión lineal ayudarte a tomar decisiones basadas en datos?** Considera cómo los modelos de regresión lineal pueden proporcionar información valiosa en contextos prácticos, como en la toma de decisiones empresariales o en la planificación de estrategias de marketing.
 
 Tómate un momento para pensar en estas preguntas y considera cómo puedes llevar lo aprendido en esta actividad a situaciones prácticas y futuras. La introspección te ayudará a consolidar tus conocimientos y a prepararte para aplicar estos conceptos de manera efectiva en tus proyectos y estudios futuros.
 
