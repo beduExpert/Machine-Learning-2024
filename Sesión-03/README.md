@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivos
 
-⚒️ El objetivo de esta sesión es que desarrolles un entendimiento sólido de los algoritmos de árboles de decisión y K-means, comprendiendo sus fundamentos, aplicaciones y diferencias clave. Aprenderás a utilizar los árboles de decisión para resolver problemas de clasificación y regresión, aprovechando su capacidad para modelar decisiones de manera clara y explicable. Además, te familiarizarás con el uso del algoritmo K-means para la agrupación de datos no etiquetados, permitiéndote identificar patrones ocultos y estructuras dentro de los datos. Al final de la sesión, serás capaz de aplicar ambos algoritmos a diferentes conjuntos de datos, interpretar sus resultados, y seleccionar el método adecuado según las características y necesidades del problema que enfrentes.
+⚒️ El objetivo de esta sesión es que desarrolles un entendimiento profundo de la regresión lineal y la regresión logística, dos técnicas esenciales en el campo del machine learning. Aprenderás cómo se utilizan estos modelos para identificar patrones y relaciones en los datos, permitiéndote realizar predicciones precisas y tomar decisiones informadas basadas en datos. A través de la exploración de los algoritmos subyacentes y la comprensión de la función de costo y el método de gradiente descendente, te prepararás para aplicar estos conceptos en diversos contextos, desde la predicción de resultados financieros hasta la clasificación de clientes, potenciando tu capacidad para abordar problemas reales con herramientas analíticas robustas.
 
 
 ---
@@ -20,43 +20,37 @@ En el prework podrás encontrar la parte teórica que utilizaremos para realizar
 ## 📂 Temas de la sesión...
 
 
-### 📖 Introducción a los árboles de decisión
+### 📖 Regresión lineal 
 
-Los árboles de decisión son una de las herramientas más útiles en machine learning debido a su simplicidad y facilidad de interpretación. Son especialmente efectivos para problemas de clasificación y regresión, ya que te permiten dividir los datos en subconjuntos más pequeños y homogéneos basados en características específicas. En este subtema, explorarás los conceptos básicos y los elementos que componen los árboles de decisión, además de conocer sus ventajas, desventajas y aplicaciones prácticas.
-
----
-
-### 📖 Construcción de un árbol de decisión
-
-En este subtema, te sumergirás en el proceso de construcción de un árbol de decisión. Aprenderás cómo elegir las características más importantes y cómo decidir dónde dividir los datos para crear un modelo efectivo. También descubrirás diferentes algoritmos utilizados para construir árboles de decisión, como el algoritmo CART (Classification and Regression Trees) y cómo estos algoritmos manejan la división de los datos en función de métricas de impureza.
+La regresión lineal te permite crear un modelo de un sistema al evaluar la relación entre las variables dependientes e independientes de un conjunto de datos de entrenamiento, logrando predicciones que son muy cercanas a la realidad. Este tipo de modelo tiene muchas aplicaciones, como predecir la temperatura de mañana basándose en datos históricos, estimar el precio de mercado de una empresa, o prever el puntaje de una prueba de un niño en función de las características de su madre. La regresión lineal es uno de los algoritmos más conocidos y utilizados en el campo de la inteligencia artificial.
 
 ---
 
-### 📖 Introducción al algoritmo K-means
+### 📖 Función de costo
 
-El algoritmo K-means es uno de los algoritmos de agrupamiento más utilizados en el aprendizaje no supervisado. Su objetivo principal es dividir un conjunto de datos en k grupos o clusters distintos. Cada cluster está formado por datos que comparten características similares, mientras que los datos de diferentes clusters son lo más distintos posible. Este método es particularmente útil cuando necesitas descubrir patrones o estructuras ocultas en datos sin etiquetar.
+Una vez que se tiene el modelo para poder realizar las predicciones correspondientes, es necesario saber qué tan cercana a la realidad es esa predicción. Para ello, introducimos un concepto llamado función de costo, el cual, nos permite calcular el error que existe entre la predicción hecha por la computadora y el valor real de nuestros datos. Al igual que un profesor califica un examen que los alumnos contestaron después de una noche de estudio (entrenamiento), un algoritmo supervisado calcula el error que existe entre las predicciones de la máquina y las respuestas reales. Utilizamos la función de costo para medir la exactitud de nuestra hipótesis, la cual está definida como la diferencia promedio de todos los resultados de las hipótesis con entradas 
 
-### 📖 Algoritmo K-means
 
-El algoritmo K-means consiste en los siguientes pasos:
-**1. Inicialización:** Primero, seleccionas k puntos aleatorios del conjunto de datos. Estos puntos iniciales actúan como los centroides de los clusters. Es crucial cómo eliges estos centroides iniciales, ya que afectará el resultado final del algoritmo. En la Fig. 3 podemos observar estos puntos en color rojo.
+---
 
-**2.	Asignación de Clusters:** Para cada punto de datos en el conjunto, calculas la distancia entre ese punto y cada uno de los centroides. Luego, asignas el punto al cluster cuyo centroide esté más cerca. La distancia más comúnmente utilizada es la distancia euclidiana, pero otras métricas como la distancia Manhattan o la distancia coseno también pueden ser aplicadas dependiendo de la naturaleza del problema.
+### 📖 Gradiente descendente
 
-**3.	Recalcular Centroides:** Una vez que todos los puntos han sido asignados a un cluster, recalculas los centroides de cada cluster. Esto se hace tomando el promedio de todos los puntos de datos que pertenecen al cluster.
+El gradiente descendente es un algoritmo de optimización utilizado para minimizar funciones matemáticas, especialmente en problemas de aprendizaje automático y redes neuronales. Su objetivo es encontrar los parámetros del modelo que minimicen una función de costo o pérdida, que mide el error entre las predicciones del modelo y los valores reales.
 
-**4.	Repetir hasta Convergencia:** Los pasos de asignación de clusters y recalculo de centroides se repiten hasta que los centroides ya no cambien significativamente o hasta que se alcance un número máximo de iteraciones. Este punto de estabilidad se conoce como "convergencia". En la Fig. 4 se observa que cada uno de los tres centroides se ha movido hacia cada uno de los clusters de tal manera que la distancia promedio es la mínima.
+### 📖 Regresión logística
+
+La regresión logística, a diferencia de lo que sugiere su nombre, no es un problema de regresión en sí, sino un problema de clasificación. Se llama regresión logística porque su formulación matemática se asemeja mucho a la de la regresión lineal. Este algoritmo se utiliza para realizar clasificaciones binarias, donde solo hay dos clases posibles, o clasificaciones multiclase, con más de dos clases. Por ejemplo, en una clasificación binaria, la regresión logística se puede aplicar para detectar si un correo electrónico es spam o no, o para clasificar un tumor como maligno o benigno.
 
 
 ---
 
 ### ✏️ Actividades
 
-#### 📕 **[Actividad 01: Encontrando el mejor fármaco](/Sesión-02/Actividad-01/README.md)**
-#### 📕 **[Actividad 02: Catando vinos](/Sesión-02/Actividad-02/README.md)**
-#### 📕 **[Actividad 03: Segmentación de clientes](/Sesión-02/Actividad-03/README.md)**
-#### 📕 **[Actividad 04: Usuarios de tarjeta de crédito](/Sesión-02/Actividad-04/README.md)**
+#### 📕 **[Actividad 01: Aplicación de Regresión Logística para Determinar el Precio de un Seguro](/Sesión-03/Actividad-01/README.md)**
+#### 📕 **[Actividad 02: Aplicación de Regresión Lineal para Predecir el Precio de Coches](/Sesión-03/Actividad-02/README.md)**
+#### 📕 **[Actividad 03: Aplicación de Regresión Logística para Diagnóstico de Diabetes](/Sesión-03/Actividad-03/README.md)**
+#### 📕 **[Actividad 04: Aplicación de Regresión Logística para Diagnóstico de Cáncer de Mama](/Sesión-03/Actividad-04/README.md)**
 
 ---
 
-⬅️ [**Anterior**](../Sesión-01/Readme.md) | [**Siguiente**](../Sesión-02/Readme.md)➡️
+⬅️ [**Anterior**](../Sesión-02/Readme.md) | [**Siguiente**](../Sesión-04/Readme.md)➡️
