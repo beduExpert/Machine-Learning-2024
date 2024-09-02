@@ -7,9 +7,13 @@ En esta actividad, el objetivo es utilizar la regresión logística para determi
 
 ## 📑 Instrucciones
 1.	Con la ayuda del profesor, corre el siguiente [Programa](https://github.com/beduExpert/Machine-Learning-2024/blob/b4075f177d9ac830dcc61ba8c2b78cf0c719b2cc/Sesi%C3%B3n-03/Actividad-03/Actividad%2003%20-%20Logistic%20Regression%20-%20Diabetes.ipynb)
+
 2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/cjboat/diabetes2)
+
 3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
+
 4.	Realiza tus observaciones y anotaciones para futuras referencias
+
 5.	Revisión de Conceptos Clave: Antes de comenzar, asegúrate de comprender los fundamentos de la regresión logística y su aplicación en problemas de clasificación binaria. Revisa las notas de clase y los materiales proporcionados para consolidar tu comprensión.
 
 6.	Carga y Exploración de Datos: Utiliza el conjunto de datos proporcionado, que contiene información sobre pacientes y variables relacionadas con la diabetes, como el nivel de glucosa en sangre, presión arterial, índice de masa corporal, edad, entre otras. Examina el conjunto de datos para identificar valores faltantes, inconsistencias o errores que deban ser corregidos.
@@ -31,29 +35,28 @@ En esta actividad, el objetivo es utilizar la regresión logística para determi
 14.	Reflexión: Al finalizar la actividad, reflexiona sobre el proceso y considera cómo podrías aplicar lo aprendido a otros problemas de clasificación en el futuro. Examina cómo los resultados de la regresión logística pueden influir en la toma de decisiones en el contexto de la salud.
 
 
-
-
 ---
 
 ## ❓ **Momento de introspección**
 
-Después de aplicar la regresión lineal para predecir el precio de coches, tómate un momento para reflexionar sobre el proceso y los resultados obtenidos. Considera las siguientes preguntas para profundizar en tu comprensión y aplicación práctica:
+Después de completar la actividad, tómate un momento para reflexionar sobre el trabajo realizado y cómo puedes aplicar estos conocimientos en situaciones prácticas. Considera las siguientes preguntas:
 
-**1.	¿Cómo puedes aplicar la regresión lineal a problemas similares en el mundo real?** Piensa en otras áreas donde puedas usar regresión lineal para hacer predicciones basadas en características específicas.
+**1.	¿Cómo se puede aplicar la regresión logística en otros problemas de clasificación?** Piensa en otras áreas donde la regresión logística podría ser útil, como la detección de fraude, el análisis de sentimientos o la clasificación de textos.
 
-**2.	¿Qué desafíos encontraste durante el preprocesamiento y la construcción del modelo?** Reflexiona sobre las dificultades que enfrentaste y cómo las superaste.
+**2.	¿Qué desafíos encontraste durante el preprocesamiento y la construcción del modelo?** Reflexiona sobre las dificultades que enfrentaste y cómo las resolviste. ¿Qué podrías hacer de manera diferente la próxima vez?
 
-**3.	¿Qué variables tuvieron el mayor impacto en las predicciones?** Examina cómo las características de los coches influyeron en el precio y cómo podrías ajustar tu modelo para manejar estas influencias de manera más efectiva.
+**3.	¿Cómo influyen las variables en la probabilidad de presentar diabetes?** Examina la importancia de cada variable en la predicción del diagnóstico y cómo podrían influir en las decisiones médicas.
 
-**4.	¿Cómo interpretaste los resultados del modelo?** Considera cómo los coeficientes del modelo reflejan la relación entre las variables y el precio del coche.
+**4.	¿Qué aprendiste sobre la interpretación de los resultados del modelo?** Considera cómo los coeficientes del modelo reflejan la relación entre las variables y la probabilidad de diabetes.
 
-**5.	¿Qué técnicas de optimización fueron más útiles para mejorar el rendimiento del modelo?** Reflexiona sobre cómo los ajustes y técnicas de regularización contribuyeron a mejorar la precisión de las predicciones.
+**5.	¿Cómo puedes mejorar el rendimiento del modelo?** Reflexiona sobre las técnicas de optimización y regularización que exploraste. ¿Qué ajustes adicionales podrías hacer para mejorar la precisión de las predicciones?
 
-**6.	¿Cómo puedes aplicar estos conceptos a otros modelos de predicción?** Piensa en cómo los principios aprendidos se relacionan con otros algoritmos y problemas de predicción.
+**6.	¿Cómo podrías aplicar estos conceptos en otros contextos médicos o de clasificación?** Piensa en cómo los principios aprendidos se relacionan con otros algoritmos y problemas de clasificación en la práctica médica y otros campos.
 
-**7.	¿Qué aprendiste sobre el uso de la regresión lineal para la toma de decisiones basada en datos?** Considera cómo los modelos de regresión lineal pueden proporcionar información valiosa en la planificación y toma de decisiones.
+**7.	¿Qué aprendiste sobre el uso de la regresión logística en la toma de decisiones médicas?** Considera cómo los modelos de regresión logística pueden proporcionar información valiosa en la evaluación y diagnóstico de condiciones de salud.
 
-Reflexionar sobre estas preguntas te ayudará a consolidar tu aprendizaje y a prepararte para aplicar estos conceptos de manera efectiva en proyectos futuros.
+Reflexionar sobre estas preguntas te ayudará a consolidar tu comprensión de la regresión logística y a prepararte para aplicar estos conceptos de manera efectiva en futuros proyectos y en la práctica profesional.
+
 
 
 
