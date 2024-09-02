@@ -6,7 +6,7 @@ En esta actividad, tu objetivo es utilizar el algoritmo de árboles de decisión
 ---
 
 ## 📑 Instrucciones
-1.	Utiliza el código de la actividad 01 y modifícalo para hacer uso del dataset de calidad de vinos, el cual puedes descargar del siguiente link
+1.	Utiliza el código de la [Actividad 01](https://github.com/beduExpert/Machine-Learning-2024/blob/main/Sesi%C3%B3n-02/Actividad-01/Actividad%2001%20-%20Decision%20Tree%20-%20F%C3%A1rmacos.ipynb) y modifícalo para hacer uso del [dataset de calidad de vinos](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
 ---
 
