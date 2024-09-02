@@ -34,7 +34,7 @@ Agrupamiento de artículos de noticias. Se tiene un conjunto de datos de artícu
 **Escenario 5**
 Diagnóstico médico basado en imágenes. Se cuenta con imágenes médicas etiquetadas como "normal" o "anormal".
 
-❓ **Momento de introspección**
+## ❓ **Momento de introspección**
 Ahora que has explorado los conceptos de aprendizaje supervisado y no supervisado, es el momento de reflexionar sobre cómo podrías aplicar estos conocimientos en situaciones reales. La capacidad de elegir el enfoque correcto para un problema de Machine Learning no solo es una habilidad técnica, sino también una decisión estratégica que puede determinar el éxito de un proyecto. Esta introspección te invita a cuestionarte y profundizar en cómo podrías llevar lo aprendido a la práctica.
 
 Preguntas para Reflexionar:
