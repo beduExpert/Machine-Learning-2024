@@ -1,6 +1,6 @@
 # **Actividad 02 - Catando vinos**
 
-# 🎯 **Objetivo**
+## 🎯 **Objetivo**
 En esta actividad, tu objetivo es utilizar el algoritmo de árboles de decisión para evaluar la calidad de diferentes vinos basándote en características como acidez, pH, contenido de alcohol, entre otros. Aplicarás el algoritmo para construir un modelo que clasifique los vinos en diferentes categorías de calidad. Evaluarás el rendimiento del modelo y analizarás cómo las características del vino influyen en la clasificación de calidad. Reflexionarás sobre cómo los árboles de decisión pueden ayudarte a identificar las características más importantes que determinan la calidad del vino y cómo esta información puede ser útil para mejorar la producción y selección de vinos.
 
 ---
