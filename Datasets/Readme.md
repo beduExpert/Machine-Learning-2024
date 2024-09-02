@@ -11,7 +11,7 @@
 
 Si deseas obtener más información sobre los datasets utilizados en el módulo, puedes acceder a los enlaces correspondientes a cada archivo. Además, cada sesión cuenta con su propio directorio que incluye los archivos utilizados, los cuales están disponibles para descargar.
 
-1. 📁 [Sesión 02: Árboles de decisión y K-means.](../Sesión-01/README.md)
+1. 📁 [Sesión 02: Árboles de decisión y K-means.](../Sesión-01/)
    - 🔗 [Drugs A, B, C, X, Y for Decision Trees](https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees)
    - 🔗[Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
    - 🔗 [Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
