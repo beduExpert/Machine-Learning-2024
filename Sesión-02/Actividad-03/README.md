@@ -8,6 +8,7 @@ En esta actividad, tu objetivo es aplicar el algoritmo K-means para segmentar cl
 
 ## 📑 Instrucciones
 1.	Con la ayuda del profesor, corre el siguiente [programa](/Sesión-02/Actividad-03/Actividad_03_K_means_Customer_Segmentation.ipynb)
+2.	Con la ayuda del profesor, corre el siguiente [programa](/Actividad-03/Actividad_03_K_means_Customer_Segmentation.ipynb)
 
 ---
 
