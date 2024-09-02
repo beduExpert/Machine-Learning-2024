@@ -6,7 +6,7 @@ En esta actividad, de manera independiente, tu objetivo es aplicar la regresión
 ---
 
 ## 📑 Instrucciones
-1.	Con la ayuda del profesor, corre el siguiente [Programa]([Actividad 02 - Simple Linear Regression - Predicción de precio de coches.ipynb](https://github.com/beduExpert/Machine-Learning-2024/blob/35fe9e611bdc213668cf635c3e796b222451d80e/Sesi%C3%B3n-03/Actividad-02/Actividad%2002%20-%20Simple%20Linear%20Regression%20-%20Predicci%C3%B3n%20de%20precio%20de%20coches.ipynb))
+1.	Con la ayuda del profesor, corre el siguiente [Actividad 02 - Simple Linear Regression - Predicción de precio de coches.ipynb](https://github.com/beduExpert/Machine-Learning-2024/blob/35fe9e611bdc213668cf635c3e796b222451d80e/Sesi%C3%B3n-03/Actividad-02/Actividad%2002%20-%20Simple%20Linear%20Regression%20-%20Predicci%C3%B3n%20de%20precio%20de%20coches.ipynb)
 2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download)
 3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
 4.	Realiza tus observaciones y anotaciones para futuras referencias
