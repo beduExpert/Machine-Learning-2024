@@ -6,10 +6,11 @@ Con la ayuda del instructor, el objetivo de esta actividad es que desarrolles la
 ---
 
 ## 📑 Instrucciones
-1.	Con la ayuda del profesor, corre el siguiente [Programa](Actividad 01 - Simple Linear Regression - Insurance.ipynb)
-2.	Descarga el dataset que utilizarás del siguiente enlace: [Drugs A, B, C, X, Y for Decision Trees](https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees)
-3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
-4.	Realiza tus observaciones y anotaciones para futuras referencias
+1.	Con la ayuda del profesor, corre el siguiente [Programa]((Actividad 01 - Simple Linear Regression - Insurance.ipynb)
+2.	 [Programa](Actividad 01 - Simple Linear Regression - Insurance.ipynb)
+3.	Descarga el dataset que utilizarás del siguiente enlace: [Drugs A, B, C, X, Y for Decision Trees](https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees)
+4.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
+5.	Realiza tus observaciones y anotaciones para futuras referencias
 
 ---
 
