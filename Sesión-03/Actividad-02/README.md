@@ -6,47 +6,45 @@ En esta actividad, de manera independiente, tu objetivo es aplicar la regresión
 ---
 
 ## 📑 Instrucciones
-1.	Con la ayuda del profesor, corre el siguiente [Programa](Actividad 02 - Simple Linear Regression - Predicción de precio de coches.ipynb)
-2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+1.	Con la ayuda del profesor, corre el siguiente [Programa]([Actividad 02 - Simple Linear Regression - Predicción de precio de coches.ipynb](https://github.com/beduExpert/Machine-Learning-2024/blob/35fe9e611bdc213668cf635c3e796b222451d80e/Sesi%C3%B3n-03/Actividad-02/Actividad%2002%20-%20Simple%20Linear%20Regression%20-%20Predicci%C3%B3n%20de%20precio%20de%20coches.ipynb))
+2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download)
 3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
 4.	Realiza tus observaciones y anotaciones para futuras referencias
-5.	Revisa los conceptos clave: Antes de comenzar, asegúrate de tener una comprensión sólida de la regresión lineal y su aplicación en problemas de predicción continua. Revisa las notas de clase y los materiales adicionales proporcionados.
-6. Cargar y explorar el conjunto de datos: Utiliza un conjunto de datos que contenga información sobre los clientes de seguros, incluyendo variables como la edad, el sexo, el índice de masa corporal (IMC), el número de hijos, si el cliente es fumador, y la región en la que vive. Analiza el conjunto de datos para identificar cualquier valor faltante o inconsistencias que deban ser abordadas antes de proceder.
-7.	Preprocesamiento de los datos: Realiza el preprocesamiento de los datos para preparar el conjunto de datos para el modelo. Esto puede incluir la normalización o estandarización de variables numéricas, la codificación de variables categóricas y la división del conjunto de datos en conjuntos de entrenamiento y prueba.
-8.	Construir el modelo de regresión lineal: Utiliza un lenguaje de programación como Python y una biblioteca de aprendizaje automático, como Scikit-Learn, para construir un modelo de regresión lineal. Asegúrate de seleccionar la variable de salida correcta (el precio del seguro) y ajustar el modelo a los datos de entrenamiento.
-9.	Evaluar el modelo: Una vez que hayas entrenado el modelo, evalúa su rendimiento utilizando el conjunto de datos de prueba. Calcula métricas de evaluación, como el error cuadrático medio (MSE), el coeficiente de determinación (R^2), y el error absoluto medio (MAE), para determinar la precisión del modelo.
-10.	Interpretar los resultados: Analiza los coeficientes del modelo para entender cómo cada variable afecta la predicción del precio del seguro. Reflexiona sobre qué variables tienen el mayor impacto y por qué.
-11.	Optimización del modelo: Si es necesario, ajusta los hiperparámetros del modelo o prueba técnicas de regularización para mejorar su rendimiento. Reentrena y vuelve a evaluar el modelo para ver si las modificaciones han mejorado las predicciones.
-12.	Documentar el proceso: Prepara un informe detallado que incluya el proceso de construcción del modelo, las decisiones tomadas durante el preprocesamiento de datos, los resultados de la evaluación del modelo, y cualquier recomendación para futuras mejoras.
-13.	Presentación de resultados: Comparte tus hallazgos con el resto de la clase a través de una presentación breve. Explica cómo construiste tu modelo, los resultados que obtuviste y lo que aprendiste durante el proceso.
-14.	Reflexión: Al final de la actividad, reflexiona sobre el proceso y cómo podrías aplicar lo aprendido a otros problemas de predicción en el futuro. Considera también cómo las diferentes variables pueden influir en las decisiones de precios en el sector de seguros.
+5.	Revisión de Conceptos Clave: Antes de comenzar, asegúrate de comprender los principios básicos de la regresión lineal. Revisa las notas de clase y los materiales proporcionados para tener una base sólida.
+6.	Carga y Exploración de Datos: Utiliza el conjunto de datos proporcionado que contiene información sobre diferentes coches. Examina las variables disponibles, identifica posibles valores faltantes o errores, y familiarízate con el formato de los datos.
+7.	Preprocesamiento de Datos: Prepara el conjunto de datos para el análisis. Esto incluye la normalización o estandarización de variables numéricas, la codificación de variables categóricas (como 'fueltype', 'carbody', etc.), y la separación del conjunto de datos en conjuntos de entrenamiento y prueba.
+8.	Construcción del Modelo: Utiliza una herramienta como Python y la biblioteca Scikit-Learn para construir un modelo de regresión lineal. Asegúrate de seleccionar la variable objetivo correcta (el precio del coche) y ajustar el modelo a los datos de entrenamiento.
+9.	Evaluación del Modelo: Evalúa el rendimiento de tu modelo usando el conjunto de datos de prueba. Calcula métricas como el error cuadrático medio (MSE), el coeficiente de determinación (R^2), y el error absoluto medio (MAE) para evaluar la precisión de tus predicciones.
+10.	Interpretación de Resultados: Analiza los coeficientes del modelo para entender cómo cada variable afecta el precio del coche. Reflexiona sobre qué variables tienen mayor impacto y cómo influyen en el precio final.¿
+11.	Optimización: Si es necesario, ajusta los hiperparámetros del modelo o prueba técnicas de regularización para mejorar su rendimiento. Vuelve a entrenar y evaluar el modelo para observar si los ajustes realizados han mejorado las predicciones.
+12.	Documentación: Prepara un informe detallado que describa el proceso de construcción del modelo, las decisiones tomadas durante el preprocesamiento de datos, los resultados de la evaluación y recomendaciones para mejorar el modelo.
+13.	Presentación de Resultados: Comparte tus hallazgos con la clase mediante una presentación breve. Explica el proceso de construcción del modelo, los resultados obtenidos y lo que aprendiste a lo largo de la actividad.
+14.	Reflexión: Al finalizar, reflexiona sobre lo aprendido y considera cómo puedes aplicar estos conocimientos a otros problemas de predicción en el futuro. Piensa en cómo diferentes variables pueden influir en la estimación de precios y en cómo estos conceptos se pueden aplicar en situaciones prácticas.
+
 
 
 ---
 
 ## ❓ **Momento de introspección**
 
-En esta actividad, has trabajado con la regresión lineal para predecir el precio de un seguro utilizando varias variables, como edad, sexo, índice de masa corporal, número de hijos, hábitos de fumador y región. Ahora es el momento de reflexionar sobre lo que has aprendido y considerar cómo puedes aplicar estos conocimientos en situaciones prácticas.
+Después de aplicar la regresión lineal para predecir el precio de coches, tómate un momento para reflexionar sobre el proceso y los resultados obtenidos. Considera las siguientes preguntas para profundizar en tu comprensión y aplicación práctica:
 
-Preguntas para Reflexionar:
+**1.	¿Cómo puedes aplicar la regresión lineal a problemas similares en el mundo real?** Piensa en otras áreas donde puedas usar regresión lineal para hacer predicciones basadas en características específicas.
 
-**1.	¿Cómo puedes aplicar la regresión lineal a problemas del mundo real?** Considera otras áreas donde la regresión lineal podría ser útil, como en la predicción de precios de productos, la evaluación de riesgos en otros tipos de seguros, o en la estimación de costos en proyectos.
+**2.	¿Qué desafíos encontraste durante el preprocesamiento y la construcción del modelo?** Reflexiona sobre las dificultades que enfrentaste y cómo las superaste.
 
-**2.	¿Qué aspectos del preprocesamiento de datos fueron más desafiantes?** Reflexiona sobre las dificultades que encontraste al limpiar y preparar los datos. ¿Cómo puedes mejorar tus habilidades en esta área para futuros proyectos?
+**3.	¿Qué variables tuvieron el mayor impacto en las predicciones?** Examina cómo las características de los coches influyeron en el precio y cómo podrías ajustar tu modelo para manejar estas influencias de manera más efectiva.
 
-**3.	¿Cómo influyen las variables en la precisión del modelo?** Piensa en cómo cada una de las variables utilizadas (edad, sexo, IMC, hijos, fumador, región) impactó en la predicción del precio del seguro. ¿Hubo alguna variable que tuvo un impacto inesperado? ¿Cómo podrías ajustar tu modelo para manejar mejor estas influencias?
+**4.	¿Cómo interpretaste los resultados del modelo?** Considera cómo los coeficientes del modelo reflejan la relación entre las variables y el precio del coche.
 
-**4.	¿Qué aprendiste sobre la interpretación de los resultados del modelo?** Considera cómo los coeficientes del modelo reflejan la relación entre las variables y el precio del seguro. ¿Cómo puedes usar esta información para hacer recomendaciones o tomar decisiones basadas en los resultados?
+**5.	¿Qué técnicas de optimización fueron más útiles para mejorar el rendimiento del modelo?** Reflexiona sobre cómo los ajustes y técnicas de regularización contribuyeron a mejorar la precisión de las predicciones.
 
-**5.	¿Cómo puedes mejorar el rendimiento del modelo?** Reflexiona sobre las técnicas de optimización y regularización que exploraste. ¿Qué ajustes adicionales podrías hacer para mejorar la precisión de las predicciones?
+**6.	¿Cómo puedes aplicar estos conceptos a otros modelos de predicción?** Piensa en cómo los principios aprendidos se relacionan con otros algoritmos y problemas de predicción.
 
-**6.	¿Cómo podrías aplicar estos conceptos a otros tipos de modelos de predicción?** Piensa en cómo los principios de la regresión lineal se relacionan con otros algoritmos de aprendizaje automático. ¿Cómo podrías utilizar tus conocimientos en regresión lineal para abordar problemas de clasificación o de predicción más complejos?
+**7.	¿Qué aprendiste sobre el uso de la regresión lineal para la toma de decisiones basada en datos?** Considera cómo los modelos de regresión lineal pueden proporcionar información valiosa en la planificación y toma de decisiones.
 
-**7.	¿Qué desafíos enfrentaste al construir y evaluar tu modelo?** Reflexiona sobre los problemas que encontraste y cómo los resolviste. ¿Qué podrías hacer de manera diferente la próxima vez para evitar estos desafíos?
+Reflexionar sobre estas preguntas te ayudará a consolidar tu aprendizaje y a prepararte para aplicar estos conceptos de manera efectiva en proyectos futuros.
 
-**8.	¿Cómo puede la regresión lineal ayudarte a tomar decisiones basadas en datos?** Considera cómo los modelos de regresión lineal pueden proporcionar información valiosa en contextos prácticos, como en la toma de decisiones empresariales o en la planificación de estrategias de marketing.
-
-Tómate un momento para pensar en estas preguntas y considera cómo puedes llevar lo aprendido en esta actividad a situaciones prácticas y futuras. La introspección te ayudará a consolidar tus conocimientos y a prepararte para aplicar estos conceptos de manera efectiva en tus proyectos y estudios futuros.
 
 
 
