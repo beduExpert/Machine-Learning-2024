@@ -37,5 +37,25 @@ Para entrenar y evaluar el modelo, los datos se dividieron de la siguiente maner
 * Precisión en Validación: 93%
 * Precisión en Prueba: 72%
 
+---
+
+## ❓ **Momento de introspección**
+Al completar la actividad sobre conjuntos de datos, sobreajuste, regularización y métricas de evaluación, es fundamental que te tomes un momento para retro inspeccionar tu proceso de aprendizaje. Este ejercicio no solo te permite evaluar lo que has aprendido, sino también cómo has aplicado ese conocimiento en un contexto práctico. Reflexionar sobre tu desempeño y decisiones te ayudará a identificar áreas de fortaleza y aspectos que aún puedes mejorar.
+
+Preguntas para Reflexionar <br />
+
+**1. ¿Cómo Comprendiste los Conjuntos de Datos?** <br />
+Reflexiona sobre tu entendimiento de los diferentes conjuntos de datos: entrenamiento, validación y prueba. ¿Cómo los aplicaste en la actividad? ¿Pudiste distinguir claramente el propósito de cada uno? ¿Cómo te aseguraste de que estos conjuntos estuvieran bien definidos para evitar sobreajuste y asegurar una evaluación justa del modelo?
+
+**2. ¿Cómo Identificaste y Gestionaste el Sobreajuste?** <br />
+Piensa en cómo abordaste el problema del sobreajuste en la actividad. ¿Pudiste identificar señales de sobreajuste en los experimentos? ¿Qué estrategias utilizaste para mitigar este problema? Considera cómo la regularización y la división adecuada de los conjuntos de datos jugaron un papel en tu enfoque.
+
+**3. ¿Qué Aprendiste sobre Regularización?** <br />
+Reflexiona sobre tu comprensión y aplicación de las técnicas de regularización. ¿Cómo evaluaste su impacto en los modelos? ¿Pudiste balancear adecuadamente el sesgo y la varianza? ¿Cómo afectó la regularización a las métricas de evaluación en tus resultados?
+
+**4. ¿Cómo Aplicarías lo Aprendido en un Proyecto Real?** <br />
+Finalmente, reflexiona sobre cómo aplicarías este conocimiento en un proyecto real fuera del entorno de aprendizaje. ¿Qué aspectos de la actividad te resultaron más útiles para tu desarrollo profesional? ¿Hay áreas en las que sientes que necesitas más práctica o comprensión?
+
+
 
 
