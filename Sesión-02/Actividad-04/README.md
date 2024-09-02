@@ -1,16 +1,13 @@
-# **Actividad 03 - Segmentación de clientes**
+# **Actividad 04 - Usuarios de tarjeta de crédito**
 
 ## 🎯 **Objetivo**
 
-En esta actividad, tu objetivo es aplicar el algoritmo K-means para segmentar clientes en diferentes grupos basados en características como frecuencia de compra, valor monetario promedio, recencia, variedad de productos y descuentos utilizados. Utilizarás K-means para identificar patrones y agrupar a los clientes en segmentos significativos. Evaluarás la efectividad de la segmentación analizando las características comunes dentro de cada grupo y cómo estas pueden influir en las estrategias de marketing y personalización de ofertas. Reflexionarás sobre cómo la segmentación de clientes puede mejorar la comprensión del comportamiento del cliente y optimizar las estrategias de marketing y ventas.
+En esta actividad, tu objetivo es utilizar el algoritmo K-means para segmentar usuarios de tarjetas de crédito en diferentes grupos basados en características como el monto de gasto mensual, frecuencia de uso, saldo promedio, y tipos de transacciones realizadas. Aplicarás K-means para identificar patrones en los datos y agrupar a los usuarios en segmentos que reflejen sus comportamientos y hábitos financieros. Evaluarás la eficacia de la segmentación analizando las características comunes dentro de cada grupo y cómo estos segmentos pueden ser utilizados para personalizar ofertas y estrategias de marketing dirigidas a diferentes tipos de usuarios. Reflexionarás sobre cómo la segmentación puede mejorar la gestión de cuentas y optimizar las estrategias de marketing para tarjetas de crédito.
 
 ---
 
 ## 📑 Instrucciones
-1.	Con la ayuda del profesor, corre el siguiente [programa](Actividad_03_K_means_Customer_Segmentation.ipynb)
-2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
-3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
-4.	Realiza tus observaciones y anotaciones para futuras referencias
+1.	Utiliza el código de la [actividad 03](../Actividad-03/Actividad_03_K_means_Customer_Segmentation.ipynb) y modifícalo para hacer uso del dataset de usuarios de tarjetas de crédito, el cual puedes descargar del siguiente link 
 
 ---
 
