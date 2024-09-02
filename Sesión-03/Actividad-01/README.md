@@ -6,7 +6,7 @@ Con la ayuda del instructor, el objetivo de esta actividad es que desarrolles la
 ---
 
 ## 📑 Instrucciones
-1.	Con la ayuda del profesor, corre el siguiente [Programa](Actividad_01_-_Simple_Linear_Regression_-_Insurance.ipynb)
+1.	Con la ayuda del profesor, corre el siguiente [Programa](https://github.com/beduExpert/Machine-Learning-2024/blob/c8c6a356be55c1ae16abf1f267ecd50e218ed3d7/Sesi%C3%B3n-03/Actividad-01/Actividad%2001%20-%20Simple%20Linear%20Regression%20-%20Insurance.ipynb)
 2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
 4.	Realiza tus observaciones y anotaciones para futuras referencias
