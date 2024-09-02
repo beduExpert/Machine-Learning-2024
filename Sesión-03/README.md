@@ -53,4 +53,4 @@ La regresión logística, a diferencia de lo que sugiere su nombre, no es un pro
 
 ---
 
-⬅️ [**Anterior**](../Sesión-02/Readme.md) | [**Siguiente**](../Sesión-04/Readme.md)➡️
+⬅️ [**Anterior**](../Sesión-02/README.md) | [**Siguiente**](../Sesión-04/README.md)➡️
