@@ -7,12 +7,14 @@ En esta actividad, tu objetivo es utilizar el algoritmo K-means para segmentar u
 ---
 
 ## 📑 Instrucciones
-1.	Utiliza el código de la [actividad 03](../Actividad-03/Actividad_03_K_means_Customer_Segmentation.ipynb) y modifícalo para hacer uso del dataset de usuarios de tarjetas de crédito, el cual puedes descargar del siguiente link 
+1.	Utiliza el código de la [actividad 03](../Actividad-03/Actividad_03_K_means_Customer_Segmentation.ipynb) y modifícalo para hacer uso del dataset [Credit Card Customer Data](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
+2.	Analiza bien las variables para saber cuáles son las más relevantes
+3.	Realiza tus observaciones y anotaciones para futuras referencias
 
 ---
 
 ## ❓ **Momento de introspección**
 
-Mientras trabajas en la segmentación de clientes utilizando el algoritmo K-means, es importante que reflexiones sobre el impacto de la segmentación en la estrategia empresarial. Pregúntate cómo la agrupación de clientes en segmentos puede revelar patrones en sus comportamientos de compra y cómo estos insights pueden ser utilizados para diseñar estrategias de marketing más efectivas. Considera cómo la calidad de la segmentación afecta la capacidad de personalizar las ofertas y mejorar la satisfacción del cliente. Reflexiona también sobre la importancia de elegir el número adecuado de clústeres y cómo esta decisión influye en la interpretación de los resultados y en la toma de decisiones empresariales. Piensa en cómo tus hallazgos pueden contribuir a una mejor comprensión del comportamiento del cliente y a la optimización de las campañas de marketing.
+Mientras trabajas en la segmentación de usuarios de tarjetas de crédito utilizando el algoritmo K-means, es importante que reflexiones sobre el impacto de la segmentación en la gestión de cuentas y en las estrategias de marketing. Pregúntate cómo agrupar a los usuarios en segmentos basados en sus comportamientos financieros puede revelar patrones útiles para ofrecer productos y servicios personalizados. Considera cómo la segmentación puede ayudarte a identificar grupos de usuarios con necesidades y preferencias similares, permitiéndote diseñar ofertas específicas y mejorar la satisfacción del cliente. Reflexiona también sobre la importancia de elegir el número adecuado de clústeres y cómo esta decisión afecta la interpretación de los resultados y las estrategias que puedes implementar. Piensa en cómo tus hallazgos pueden contribuir a una gestión más efectiva de las tarjetas de crédito y a la optimización de las campañas de marketing.
 
 
