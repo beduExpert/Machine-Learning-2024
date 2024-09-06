@@ -51,25 +51,20 @@ El objetivo de esta actividad es que utilices redes neuronales para llevar a cab
 
 ## ❓ **Momento de introspección**
 
-Al finalizar esta actividad, tómate unos minutos para reflexionar sobre lo que has aprendido y cómo puedes aplicar estos conocimientos en otros contextos. Aquí tienes algunas preguntas que pueden ayudarte en este proceso de introspección:
+Al finalizar esta actividad, dedica unos minutos a reflexionar sobre tu proceso de aprendizaje y cómo lo que has realizado puede impactar tu formación y aplicación futura. Aquí algunas preguntas para guiar tu introspección:
 
-**¿Cómo se relaciona lo aprendido hoy con situaciones de la vida real?**
-Piensa en otros productos o servicios cuyos precios podrían predecirse utilizando redes neuronales. ¿Qué otras variables deberías tener en cuenta en esos casos?
+**1.	¿Cómo esta actividad me ha ayudado a comprender mejor las redes neuronales y su aplicación?** ¿Qué fue lo más revelador o novedoso al aplicar redes neuronales para clasificar objetos estelares?
 
-**¿De qué manera este conocimiento puede mejorar mi capacidad de resolver problemas?**
-Reflexiona sobre cómo la capacidad de predecir valores o comportamientos a través de algoritmos avanzados podría aplicarse a otros problemas complejos en tu área de estudio o trabajo.
+**2.	¿Qué dificultades encontré durante el desarrollo del modelo y cómo las superé?** Reflexiona sobre los pasos del preprocesamiento de datos o la construcción del modelo. ¿Hubo algo que te costó más trabajo entender o implementar? ¿Cómo lo resolviste?
 
-**¿Qué aspectos del desarrollo del modelo me parecieron más desafiantes y por qué?**
-¿En qué áreas necesitas más práctica? ¿Qué estrategias puedes aplicar para mejorar tu comprensión o habilidad en esos aspectos?
+**3.	¿En qué otros campos o problemas podría aplicar lo aprendido hoy?** Piensa en otros conjuntos de datos que podrías clasificar utilizando redes neuronales. ¿Qué similitudes o diferencias habría con el problema de clasificación de objetos estelares?
 
-**¿Cómo puedo aplicar lo aprendido a otros proyectos o desafíos personales?**
-Imagina un proyecto personal o académico donde podrías usar redes neuronales. ¿Cómo estructurarías el problema y qué datos necesitarías?
+**4.	¿Cómo puedo mejorar mi enfoque en futuros proyectos similares?** Si tuvieras que repetir esta actividad o aplicar estos conocimientos a otro problema, ¿qué harías diferente? ¿Cómo optimizarías tu tiempo o recursos?
 
-**¿Cómo cambiaría mi enfoque si tuviera que enseñar esto a alguien más?**
- Si tuvieras que explicar este concepto a un compañero, ¿cómo lo harías? ¿Qué ejemplos prácticos o analogías usarías para facilitar su comprensión?
+**5.	¿Qué impacto tienen estas técnicas de clasificación en el campo de la astronomía y otros sectores científicos?** Reflexiona sobre cómo el uso de redes neuronales está transformando la ciencia. ¿Cómo podrías contribuir a esa evolución en tu futuro profesional?
 
-**¿Qué impacto tiene el uso de redes neuronales en la sociedad y en mi campo de estudio?**
-Piensa en el impacto que las redes neuronales y la inteligencia artificial tienen en diferentes industrias. ¿Cómo puedes contribuir a un uso responsable y ético de estas tecnologías?
+**6.	¿Qué habilidades técnicas y de pensamiento he fortalecido con esta actividad?** ¿Te sientes más cómodo/a trabajando con redes neuronales y procesando datos? ¿De qué manera esta experiencia ha influido en tu forma de abordar problemas complejos?
+
 
 
 
