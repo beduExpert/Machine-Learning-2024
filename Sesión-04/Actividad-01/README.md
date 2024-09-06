@@ -6,7 +6,7 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
 ---
 
 ## 📑 Instrucciones
-1.	Con la ayuda del profesor, corre el siguiente [Programa](https://github.com/beduExpert/Machine-Learning-2024/blob/c8c6a356be55c1ae16abf1f267ecd50e218ed3d7/Sesi%C3%B3n-03/Actividad-01/Actividad%2001%20-%20Simple%20Linear%20Regression%20-%20Insurance.ipynb)
+1.	Con la ayuda del profesor, corre el siguiente [Programa](Actividad_01_Redes_Neuronales_Predicción_de_precios_de_Smartphones.ipynb)
 
 2.	[Programa](Actividad_01_Redes_Neuronales_Predicción_de_precios_de_Smartphones.ipynb)
 
