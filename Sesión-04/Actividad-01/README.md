@@ -10,56 +10,67 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
 
 2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 
-4.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
+3.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
 
-5.	Realiza tus observaciones y anotaciones para futuras referencias
+4.	Realiza tus observaciones y anotaciones para futuras referencias
 
-6.	Revisa los conceptos clave: Antes de comenzar, asegúrate de tener una comprensión sólida de la regresión lineal y su aplicación en problemas de predicción continua. Revisa las notas de clase y los materiales adicionales proporcionados.
+5.	Preparación del Entorno
+  a.	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
+  b.	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
 
-7. Cargar y explorar el conjunto de datos: Utiliza un conjunto de datos que contenga información sobre los clientes de seguros, incluyendo variables como la edad, el sexo, el índice de masa corporal (IMC), el número de hijos, si el cliente es fumador, y la región en la que vive. Analiza el conjunto de datos para identificar cualquier valor faltante o inconsistencias que deban ser abordadas antes de proceder.
+6.	Preprocesamiento de Datos:
+  a.	Carga el conjunto de datos en Python utilizando Pandas.
+  b.	Realiza un análisis exploratorio de los datos para identificar características relevantes que influirán en la predicción de los precios.
+  c.	Limpia los datos eliminando valores nulos o inconsistentes, y normaliza las variables para que estén en el rango adecuado para el entrenamiento del modelo.
 
-8.	Preprocesamiento de los datos: Realiza el preprocesamiento de los datos para preparar el conjunto de datos para el modelo. Esto puede incluir la normalización o estandarización de variables numéricas, la codificación de variables categóricas y la división del conjunto de datos en conjuntos de entrenamiento y prueba.
+9.	Construcción del Modelo:
+  a.	Utilizando TensorFlow o PyTorch, construye una red neuronal básica con al menos una capa de entrada, una o dos capas ocultas y una capa de salida.
+  b.	Define la función de activación, el optimizador y la función de pérdida a utilizar en el modelo.
 
-9.	Construir el modelo de regresión lineal: Utiliza un lenguaje de programación como Python y una biblioteca de aprendizaje automático, como Scikit-Learn, para construir un modelo de regresión lineal. Asegúrate de seleccionar la variable de salida correcta (el precio del seguro) y ajustar el modelo a los datos de entrenamiento.
+10.	Entrenamiento del Modelo:
+  a.	Divide el conjunto de datos en datos de entrenamiento y de prueba.
+  b.	Entrena la red neuronal utilizando los datos de entrenamiento. Asegúrate de ajustar los hiperparámetros como el número de épocas y el tamaño del lote (batch size).
+  c.	Monitorea la precisión y la pérdida del modelo durante el entrenamiento para evitar sobreajuste.
 
-10.	Evaluar el modelo: Una vez que hayas entrenado el modelo, evalúa su rendimiento utilizando el conjunto de datos de prueba. Calcula métricas de evaluación, como el error cuadrático medio (MSE), el coeficiente de determinación (R^2), y el error absoluto medio (MAE), para determinar la precisión del modelo.
+11.	Evaluación del Modelo:
+  a.	Evalúa el modelo utilizando los datos de prueba. Analiza los resultados obtenidos y compara los valores predichos con los precios reales.
+  b.	Calcula métricas de evaluación como el error cuadrático medio (MSE) y la precisión para evaluar el rendimiento del modelo.
 
-11.	Interpretar los resultados: Analiza los coeficientes del modelo para entender cómo cada variable afecta la predicción del precio del seguro. Reflexiona sobre qué variables tienen el mayor impacto y por qué.
+12.	Optimización:
+  a.	Si los resultados no son satisfactorios, ajusta el modelo modificando el número de capas, neuronas o parámetros de entrenamiento.
+  b.	Reentrena el modelo y evalúa nuevamente los resultados.
 
-12.	Optimización del modelo: Si es necesario, ajusta los hiperparámetros del modelo o prueba técnicas de regularización para mejorar su rendimiento. Reentrena y vuelve a evaluar el modelo para ver si las modificaciones han mejorado las predicciones.
+13.	Informe de Resultados:
+  a.	Documenta los pasos seguidos, los resultados obtenidos y cualquier ajuste realizado al modelo.
+  b.	Presenta un informe final en formato PDF con los gráficos de la precisión y la pérdida del modelo, así como un análisis de los resultados de la predicción.
 
-13.	Documentar el proceso: Prepara un informe detallado que incluya el proceso de construcción del modelo, las decisiones tomadas durante el preprocesamiento de datos, los resultados de la evaluación del modelo, y cualquier recomendación para futuras mejoras.
-
-14.	Presentación de resultados: Comparte tus hallazgos con el resto de la clase a través de una presentación breve. Explica cómo construiste tu modelo, los resultados que obtuviste y lo que aprendiste durante el proceso.
-
-15.	Reflexión: Al final de la actividad, reflexiona sobre el proceso y cómo podrías aplicar lo aprendido a otros problemas de predicción en el futuro. Considera también cómo las diferentes variables pueden influir en las decisiones de precios en el sector de seguros.
-
+14.	Entrega:
+  a.	Sube el código del modelo y el informe final a la plataforma indicada por el instructor antes de la fecha límite.
 
 ---
 
 ## ❓ **Momento de introspección**
 
-En esta actividad, has trabajado con la regresión lineal para predecir el precio de un seguro utilizando varias variables, como edad, sexo, índice de masa corporal, número de hijos, hábitos de fumador y región. Ahora es el momento de reflexionar sobre lo que has aprendido y considerar cómo puedes aplicar estos conocimientos en situaciones prácticas.
+Al finalizar esta actividad, tómate unos minutos para reflexionar sobre lo que has aprendido y cómo puedes aplicar estos conocimientos en otros contextos. Aquí tienes algunas preguntas que pueden ayudarte en este proceso de introspección:
 
-Preguntas para Reflexionar:
+**¿Cómo se relaciona lo aprendido hoy con situaciones de la vida real?**
+Piensa en otros productos o servicios cuyos precios podrían predecirse utilizando redes neuronales. ¿Qué otras variables deberías tener en cuenta en esos casos?
 
-**1.	¿Cómo puedes aplicar la regresión lineal a problemas del mundo real?** Considera otras áreas donde la regresión lineal podría ser útil, como en la predicción de precios de productos, la evaluación de riesgos en otros tipos de seguros, o en la estimación de costos en proyectos.
+**¿De qué manera este conocimiento puede mejorar mi capacidad de resolver problemas?**
+Reflexiona sobre cómo la capacidad de predecir valores o comportamientos a través de algoritmos avanzados podría aplicarse a otros problemas complejos en tu área de estudio o trabajo.
 
-**2.	¿Qué aspectos del preprocesamiento de datos fueron más desafiantes?** Reflexiona sobre las dificultades que encontraste al limpiar y preparar los datos. ¿Cómo puedes mejorar tus habilidades en esta área para futuros proyectos?
+**¿Qué aspectos del desarrollo del modelo me parecieron más desafiantes y por qué?**
+¿En qué áreas necesitas más práctica? ¿Qué estrategias puedes aplicar para mejorar tu comprensión o habilidad en esos aspectos?
 
-**3.	¿Cómo influyen las variables en la precisión del modelo?** Piensa en cómo cada una de las variables utilizadas (edad, sexo, IMC, hijos, fumador, región) impactó en la predicción del precio del seguro. ¿Hubo alguna variable que tuvo un impacto inesperado? ¿Cómo podrías ajustar tu modelo para manejar mejor estas influencias?
+**¿Cómo puedo aplicar lo aprendido a otros proyectos o desafíos personales?**
+Imagina un proyecto personal o académico donde podrías usar redes neuronales. ¿Cómo estructurarías el problema y qué datos necesitarías?
 
-**4.	¿Qué aprendiste sobre la interpretación de los resultados del modelo?** Considera cómo los coeficientes del modelo reflejan la relación entre las variables y el precio del seguro. ¿Cómo puedes usar esta información para hacer recomendaciones o tomar decisiones basadas en los resultados?
+**¿Cómo cambiaría mi enfoque si tuviera que enseñar esto a alguien más?**
+ Si tuvieras que explicar este concepto a un compañero, ¿cómo lo harías? ¿Qué ejemplos prácticos o analogías usarías para facilitar su comprensión?
 
-**5.	¿Cómo puedes mejorar el rendimiento del modelo?** Reflexiona sobre las técnicas de optimización y regularización que exploraste. ¿Qué ajustes adicionales podrías hacer para mejorar la precisión de las predicciones?
+**¿Qué impacto tiene el uso de redes neuronales en la sociedad y en mi campo de estudio?**
+Piensa en el impacto que las redes neuronales y la inteligencia artificial tienen en diferentes industrias. ¿Cómo puedes contribuir a un uso responsable y ético de estas tecnologías?
 
-**6.	¿Cómo podrías aplicar estos conceptos a otros tipos de modelos de predicción?** Piensa en cómo los principios de la regresión lineal se relacionan con otros algoritmos de aprendizaje automático. ¿Cómo podrías utilizar tus conocimientos en regresión lineal para abordar problemas de clasificación o de predicción más complejos?
-
-**7.	¿Qué desafíos enfrentaste al construir y evaluar tu modelo?** Reflexiona sobre los problemas que encontraste y cómo los resolviste. ¿Qué podrías hacer de manera diferente la próxima vez para evitar estos desafíos?
-
-**8.	¿Cómo puede la regresión lineal ayudarte a tomar decisiones basadas en datos?** Considera cómo los modelos de regresión lineal pueden proporcionar información valiosa en contextos prácticos, como en la toma de decisiones empresariales o en la planificación de estrategias de marketing.
-
-Tómate un momento para pensar en estas preguntas y considera cómo puedes llevar lo aprendido en esta actividad a situaciones prácticas y futuras. La introspección te ayudará a consolidar tus conocimientos y a prepararte para aplicar estos conceptos de manera efectiva en tus proyectos y estudios futuros.
 
 
 
