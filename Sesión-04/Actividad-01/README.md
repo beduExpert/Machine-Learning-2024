@@ -15,17 +15,17 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
 4.	Realiza tus observaciones y anotaciones para futuras referencias
 
 5.	Preparación del Entorno
-  a.	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
-  b.	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
+  *	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
+  *	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
 
 6.	Preprocesamiento de Datos:
-  a.	Carga el conjunto de datos en Python utilizando Pandas.
-  b.	Realiza un análisis exploratorio de los datos para identificar características relevantes que influirán en la predicción de los precios.
-  c.	Limpia los datos eliminando valores nulos o inconsistentes, y normaliza las variables para que estén en el rango adecuado para el entrenamiento del modelo.
+  *	Carga el conjunto de datos en Python utilizando Pandas.
+  *	Realiza un análisis exploratorio de los datos para identificar características relevantes que influirán en la predicción de los precios.
+  *	Limpia los datos eliminando valores nulos o inconsistentes, y normaliza las variables para que estén en el rango adecuado para el entrenamiento del modelo.
 
 9.	Construcción del Modelo:
-  a.	Utilizando TensorFlow o PyTorch, construye una red neuronal básica con al menos una capa de entrada, una o dos capas ocultas y una capa de salida.
-  b.	Define la función de activación, el optimizador y la función de pérdida a utilizar en el modelo.
+  *	Utilizando TensorFlow o PyTorch, construye una red neuronal básica con al menos una capa de entrada, una o dos capas ocultas y una capa de salida.
+  *	Define la función de activación, el optimizador y la función de pérdida a utilizar en el modelo.
 
 10.	Entrenamiento del Modelo:
   a.	Divide el conjunto de datos en datos de entrenamiento y de prueba.
