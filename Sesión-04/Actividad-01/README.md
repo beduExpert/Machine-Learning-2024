@@ -15,8 +15,8 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
 4.	Realiza tus observaciones y anotaciones para futuras referencias
 
 5.	Preparación del Entorno
-   **	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
-   **	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
+   *	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
+   *	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
 
 6.	Preprocesamiento de Datos:
   *	Carga el conjunto de datos en Python utilizando Pandas.
@@ -28,24 +28,24 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
   *	Define la función de activación, el optimizador y la función de pérdida a utilizar en el modelo.
 
 10.	Entrenamiento del Modelo:
-  a.	Divide el conjunto de datos en datos de entrenamiento y de prueba.
-  b.	Entrena la red neuronal utilizando los datos de entrenamiento. Asegúrate de ajustar los hiperparámetros como el número de épocas y el tamaño del lote (batch size).
-  c.	Monitorea la precisión y la pérdida del modelo durante el entrenamiento para evitar sobreajuste.
+  *	Divide el conjunto de datos en datos de entrenamiento y de prueba.
+  *	Entrena la red neuronal utilizando los datos de entrenamiento. Asegúrate de ajustar los hiperparámetros como el número de épocas y el tamaño del lote (batch size).
+  *	Monitorea la precisión y la pérdida del modelo durante el entrenamiento para evitar sobreajuste.
 
 11.	Evaluación del Modelo:
-  a.	Evalúa el modelo utilizando los datos de prueba. Analiza los resultados obtenidos y compara los valores predichos con los precios reales.
-  b.	Calcula métricas de evaluación como el error cuadrático medio (MSE) y la precisión para evaluar el rendimiento del modelo.
+  *	Evalúa el modelo utilizando los datos de prueba. Analiza los resultados obtenidos y compara los valores predichos con los precios reales.
+  *	Calcula métricas de evaluación como el error cuadrático medio (MSE) y la precisión para evaluar el rendimiento del modelo.
 
 12.	Optimización:
-  a.	Si los resultados no son satisfactorios, ajusta el modelo modificando el número de capas, neuronas o parámetros de entrenamiento.
-  b.	Reentrena el modelo y evalúa nuevamente los resultados.
+  *	Si los resultados no son satisfactorios, ajusta el modelo modificando el número de capas, neuronas o parámetros de entrenamiento.
+  *	Reentrena el modelo y evalúa nuevamente los resultados.
 
 13.	Informe de Resultados:
-  a.	Documenta los pasos seguidos, los resultados obtenidos y cualquier ajuste realizado al modelo.
-  b.	Presenta un informe final en formato PDF con los gráficos de la precisión y la pérdida del modelo, así como un análisis de los resultados de la predicción.
+  *	Documenta los pasos seguidos, los resultados obtenidos y cualquier ajuste realizado al modelo.
+  *	Presenta un informe final en formato PDF con los gráficos de la precisión y la pérdida del modelo, así como un análisis de los resultados de la predicción.
 
 14.	Entrega:
-  a.	Sube el código del modelo y el informe final a la plataforma indicada por el instructor antes de la fecha límite.
+  *	Sube el código del modelo y el informe final a la plataforma indicada por el instructor antes de la fecha límite.
 
 ---
 
