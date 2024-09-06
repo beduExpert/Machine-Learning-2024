@@ -8,9 +8,7 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
 ## 📑 Instrucciones
 1.	Con la ayuda del profesor, corre el siguiente [Programa](Actividad_01_Redes_Neuronales_Predicción_de_precios_de_Smartphones.ipynb)
 
-2.	[Programa](Actividad_01_Redes_Neuronales_Predicción_de_precios_de_Smartphones.ipynb)
-
-3.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+2.	Descarga el dataset que utilizarás del siguiente [enlace](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 
 4.	Pon mucha atención a la explicación del profesor en la ejecución de cada línea de código.
 
