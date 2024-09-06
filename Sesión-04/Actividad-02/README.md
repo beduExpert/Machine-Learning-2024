@@ -10,41 +10,41 @@ El objetivo de esta actividad es que utilices redes neuronales para llevar a cab
 * Asegúrate de tener instalado Python y las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
 * Descarga el conjunto de datos astronómicos de la siguiente [liga](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17), que incluye características de diferentes objetos estelares como galaxias, estrellas y quásares.
 
-3.	Análisis Exploratorio de Datos
-a.	Carga el conjunto de datos en Python utilizando Pandas.
-b.	Realiza un análisis exploratorio de los datos para entender las características y etiquetas de los objetos estelares. Esto te ayudará a identificar qué atributos son más relevantes para la clasificación.
-c.	Asegúrate de visualizar los datos a través de gráficos que te permitan interpretar mejor las relaciones entre las variables.
+**3.	Análisis Exploratorio de Datos**
+*	Carga el conjunto de datos en Python utilizando Pandas.
+*	Realiza un análisis exploratorio de los datos para entender las características y etiquetas de los objetos estelares. Esto te ayudará a identificar qué atributos son más relevantes para la clasificación.
+*	Asegúrate de visualizar los datos a través de gráficos que te permitan interpretar mejor las relaciones entre las variables.
 
-4.	Preprocesamiento de los Datos
-a.	Limpia los datos eliminando valores nulos o inconsistentes.
-b.	Normaliza los datos si es necesario, para asegurar que las características estén en un rango adecuado para el entrenamiento del modelo.
-c.	Divide el conjunto de datos en un conjunto de entrenamiento y otro de prueba, asegurando una correcta distribución de las clases de objetos estelares.
+**4.	Preprocesamiento de los Datos**
+*	Limpia los datos eliminando valores nulos o inconsistentes.
+*	Normaliza los datos si es necesario, para asegurar que las características estén en un rango adecuado para el entrenamiento del modelo.
+*	Divide el conjunto de datos en un conjunto de entrenamiento y otro de prueba, asegurando una correcta distribución de las clases de objetos estelares.
 
-5.	Construcción del Modelo
-a.	Utilizando TensorFlow o PyTorch, construye una red neuronal con una capa de entrada que reciba las características de los objetos estelares, una o más capas ocultas, y una capa de salida con tantas neuronas como clases (galaxias, estrellas y quásares).
-b.	Define la función de activación, el optimizador, y la función de pérdida adecuada para un problema de clasificación (por ejemplo, la entropía cruzada).
+**5.	Construcción del Modelo**
+*	Utilizando TensorFlow o PyTorch, construye una red neuronal con una capa de entrada que reciba las características de los objetos estelares, una o más capas ocultas, y una capa de salida con tantas neuronas como clases (galaxias, estrellas y quásares).
+*	Define la función de activación, el optimizador, y la función de pérdida adecuada para un problema de clasificación (por ejemplo, la entropía cruzada).
 
-6.	Entrenamiento del Modelo
-a.	Entrena la red neuronal utilizando los datos de entrenamiento.
-b.	Ajusta los hiperparámetros como el número de épocas, tamaño del lote (batch size) y la tasa de aprendizaje.
-c.	Monitorea las métricas de precisión y pérdida durante el entrenamiento para asegurarte de que el modelo está mejorando sin sobreajustarse.
+**6.	Entrenamiento del Modelo**
+*	Entrena la red neuronal utilizando los datos de entrenamiento.
+*	Ajusta los hiperparámetros como el número de épocas, tamaño del lote (batch size) y la tasa de aprendizaje.
+*	Monitorea las métricas de precisión y pérdida durante el entrenamiento para asegurarte de que el modelo está mejorando sin sobreajustarse.
 
-7.	Evaluación del Modelo
-a.	Evalúa el modelo utilizando los datos de prueba.
-b.	Analiza el desempeño del modelo en la clasificación de objetos estelares, comparando las predicciones con las etiquetas reales.
-c.	Calcula métricas de evaluación como la precisión, la sensibilidad y el F1 score para medir el rendimiento del modelo.
+**7.	Evaluación del Modelo**
+*	Evalúa el modelo utilizando los datos de prueba.
+*	Analiza el desempeño del modelo en la clasificación de objetos estelares, comparando las predicciones con las etiquetas reales.
+*	Calcula métricas de evaluación como la precisión, la sensibilidad y el F1 score para medir el rendimiento del modelo.
 
-8.	Optimización del Modelo
-a.	Si es necesario, ajusta el número de capas, neuronas o hiperparámetros del modelo para mejorar su precisión.
-b.	Reentrena el modelo y vuelve a evaluar sus resultados.
+**8.	Optimización del Modelo**
+*	Si es necesario, ajusta el número de capas, neuronas o hiperparámetros del modelo para mejorar su precisión.
+*	Reentrena el modelo y vuelve a evaluar sus resultados.
 
-9.	Informe de Resultados
-a.	Documenta el proceso seguido, los resultados obtenidos y cualquier ajuste realizado al modelo.
-b.	Incluye gráficos y análisis de las métricas de evaluación que muestren cómo tu modelo clasifica los diferentes objetos estelares.
-c.	Prepara un informe final en formato PDF.
+**9.	Informe de Resultados**
+*	Documenta el proceso seguido, los resultados obtenidos y cualquier ajuste realizado al modelo.
+*	Incluye gráficos y análisis de las métricas de evaluación que muestren cómo tu modelo clasifica los diferentes objetos estelares.
+*	Prepara un informe final en formato PDF.
 
-10.	Entrega
-a.	Sube el código del modelo y el informe final a la plataforma indicada por el instructor antes de la fecha límite.
+**10.	Entrega**
+*	Sube el código del modelo y el informe final a la plataforma indicada por el instructor antes de la fecha límite.
 
 
 ---
