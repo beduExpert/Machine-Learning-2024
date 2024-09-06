@@ -15,8 +15,8 @@ El objetivo de esta actividad es que comprendas y apliques el uso de redes neuro
 4.	Realiza tus observaciones y anotaciones para futuras referencias
 
 5.	Preparación del Entorno
-   *	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
-   *	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
+   **	Asegúrate de tener instalado Python junto con las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
+   **	Descarga el conjunto de datos proporcionado por el instructor, que incluye las especificaciones técnicas de diversos smartphones y sus precios.
 
 6.	Preprocesamiento de Datos:
   *	Carga el conjunto de datos en Python utilizando Pandas.
