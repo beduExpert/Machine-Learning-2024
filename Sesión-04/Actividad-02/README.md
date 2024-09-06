@@ -8,9 +8,7 @@ El objetivo de esta actividad es que utilices redes neuronales para llevar a cab
 ## 📑 Instrucciones
 **1.	Preparación del Entorno**
 * Asegúrate de tener instalado Python y las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
-* Descarga el conjunto de datos astronómicos de la siguiente [liga](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) 
-*
-* proporcionado por el instructor, que incluye características de diferentes objetos estelares como galaxias, estrellas y quásares.
+* Descarga el conjunto de datos astronómicos de la siguiente [liga](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17), que incluye características de diferentes objetos estelares como galaxias, estrellas y quásares.
 
 3.	Análisis Exploratorio de Datos
 a.	Carga el conjunto de datos en Python utilizando Pandas.
