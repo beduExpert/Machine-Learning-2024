@@ -1,4 +1,4 @@
-# **Actividad 02 - Predicción de precios de smartphones**
+# **Actividad 01 - Predicción de precios de smartphones**
 
 ## 🎯 **Objetivo**
 El objetivo de esta actividad es que comprendas y apliques el uso de redes neuronales artificiales en la predicción de precios de smartphones, utilizando herramientas de aprendizaje automático. A través de la ejecución de un programa, guiado por el instructor, aprenderás a preprocesar datos, construir y entrenar un modelo de red neuronal, así como ajustar parámetros para mejorar la precisión de las predicciones. Al finalizar la actividad, habrás adquirido conocimientos fundamentales sobre el funcionamiento de las redes neuronales y su aplicación en problemas de predicción en el ámbito comercial.
