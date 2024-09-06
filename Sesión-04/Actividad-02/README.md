@@ -7,7 +7,7 @@ El objetivo de esta actividad es que utilices redes neuronales para llevar a cab
 
 ## 📑 Instrucciones
 1.	Preparación del Entorno
-1.1	Asegúrate de tener instalado Python y las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
+1.1.	Asegúrate de tener instalado Python y las bibliotecas necesarias como TensorFlow o PyTorch, Pandas, y Scikit-learn.
 b.	Descarga el conjunto de datos astronómicos proporcionado por el instructor, que incluye características de diferentes objetos estelares como galaxias, estrellas y quásares.
 
 2.	Análisis Exploratorio de Datos
