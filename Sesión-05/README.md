@@ -54,4 +54,4 @@ Cuando trabajas en el desarrollo de modelos de aprendizaje profundo, es fundamen
 
 ---
 
-⬅️ [**Anterior**](../Sesión-03/README.md) | [**Siguiente**](../Sesión-05/README.md)➡️
+⬅️ [**Anterior**](../Sesión-04/README.md) | [**Siguiente**](../Sesión-06/README.md)➡️
