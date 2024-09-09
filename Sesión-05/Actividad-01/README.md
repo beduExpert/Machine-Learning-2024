@@ -6,7 +6,7 @@ El objetivo de esta actividad es que implementes y comprendas el funcionamiento 
 ---
 
 ## 📑 Instrucciones
-1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno]()
+1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad 01 - VGG16 sobre CIFAR10.ipynb)
 2.	Carga del Dataset CIFAR10 desde [Link](https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders)
 3.	Divide el dataset en conjuntos de entrenamiento y prueba.
 4.	Asegúrate de normalizar las imágenes utilizando ``` torchvision.transforms ```  para que los valores de píxeles estén en un rango adecuado.
