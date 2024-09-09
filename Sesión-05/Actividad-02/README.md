@@ -9,7 +9,7 @@ El objetivo de la Actividad 02 es que implementes una red neuronal convolucional
 De manera independiente, realiza lo siguiente:
 
 1.	Asegúrate de tener PyTorch y las bibliotecas necesarias instaladas en tu entorno de desarrollo. Si aún no lo has hecho, consulta la página oficial de PyTorch para la instalación.
-2.	Recolecta un dataset customizado en [Kaggle](www.kaggle.com) que desees utilizar. Asegúrate de que esté bien etiquetado y dividido en conjuntos de entrenamiento y prueba.
+2.	Recolecta un dataset customizado en [Kaggle](https://www.kaggle.com/) que desees utilizar. Asegúrate de que esté bien etiquetado y dividido en conjuntos de entrenamiento y prueba.
 3.	Utiliza ```torchvision.datasets.ImageFolder``` o implementa un ```Datase```t personalizado para cargar tus datos en PyTorch.
 4.	Aplica transformaciones adecuadas a las imágenes, como redimensionamiento, normalización y aumentos de datos, utilizando ```torchvision.transforms```.
 5.	Elige una arquitectura de red neuronal convolucional (CNN) para implementar, como VGG16, o considera otras arquitecturas como GoogLeNet o AlexNet si prefieres.
