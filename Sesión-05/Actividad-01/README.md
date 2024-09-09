@@ -26,25 +26,29 @@ El objetivo de esta actividad es que implementes y comprendas el funcionamiento 
 
 ## ❓ **Momento de introspección**
 
-Al finalizar esta actividad, tómate unos minutos para reflexionar sobre lo que has aprendido y cómo puedes aplicar estos conocimientos en otros contextos. Aquí tienes algunas preguntas que pueden ayudarte en este proceso de introspección:
+Antes de concluir esta actividad, es importante que tomes un momento para reflexionar y cuestionarte cómo puedes llevar a la práctica los conceptos y habilidades que has adquirido al implementar VGG16. Este ejercicio te permitirá no solo consolidar tu aprendizaje, sino también visualizar su aplicación en contextos del mundo real.
 
-**¿Cómo se relaciona lo aprendido hoy con situaciones de la vida real?**
-Piensa en otros productos o servicios cuyos precios podrían predecirse utilizando redes neuronales. ¿Qué otras variables deberías tener en cuenta en esos casos?
+1.	¿Cómo puedo aplicar lo que aprendí sobre redes neuronales convolucionales (CNN) en otros proyectos o problemas que involucren clasificación de imágenes?
+a.	Piensa en otras áreas, además de CIFAR10, donde las CNN pueden ser útiles, como la medicina, la agricultura, o el análisis de video. ¿Cómo podrías adaptar o mejorar un modelo como VGG16 para esos escenarios?
 
-**¿De qué manera este conocimiento puede mejorar mi capacidad de resolver problemas?**
-Reflexiona sobre cómo la capacidad de predecir valores o comportamientos a través de algoritmos avanzados podría aplicarse a otros problemas complejos en tu área de estudio o trabajo.
+2.	¿De qué manera los conocimientos sobre el ajuste de hiper parámetros, como la tasa de aprendizaje o el optimizador, me ayudan a mejorar modelos en otros contextos?
+a.	Considera proyectos pasados o futuros donde el ajuste de estos parámetros pueda mejorar el rendimiento de los modelos. ¿Qué técnicas podrías emplear para optimizar modelos en distintos conjuntos de datos?
 
-**¿Qué aspectos del desarrollo del modelo me parecieron más desafiantes y por qué?**
-¿En qué áreas necesitas más práctica? ¿Qué estrategias puedes aplicar para mejorar tu comprensión o habilidad en esos aspectos?
+3.	¿Cómo puedo transferir el aprendizaje adquirido en esta actividad a otros dominios del machine learning o deep learning que me interesen?
+a.	Si tu interés es, por ejemplo, el procesamiento de lenguaje natural (NLP) o el análisis de audio, ¿cómo podrían los principios de ajuste de redes neuronales aplicarse en esos campos?
 
-**¿Cómo puedo aplicar lo aprendido a otros proyectos o desafíos personales?**
-Imagina un proyecto personal o académico donde podrías usar redes neuronales. ¿Cómo estructurarías el problema y qué datos necesitarías?
+4.	¿Qué habilidades prácticas o conceptuales he desarrollado en el uso de PyTorch, y cómo puedo seguir perfeccionándolas?
+a.	Piensa en cómo te has familiarizado con PyTorch durante esta actividad. ¿Cómo podrías usar esta habilidad en otros proyectos? ¿Qué desafíos enfrentaste que te gustaría explorar más a fondo para dominarlos?
 
-**¿Cómo cambiaría mi enfoque si tuviera que enseñar esto a alguien más?**
- Si tuvieras que explicar este concepto a un compañero, ¿cómo lo harías? ¿Qué ejemplos prácticos o analogías usarías para facilitar su comprensión?
+5.	¿Cómo puedo integrar el uso de arquitecturas pre entrenadas, como VGG16, en proyectos futuros para acelerar el desarrollo de soluciones?
+a.	Reflexiona sobre los beneficios de usar modelos preentrenados en lugar de entrenar desde cero. ¿En qué casos futuros consideras que sería ventajoso reutilizar arquitecturas preexistentes?
 
-**¿Qué impacto tiene el uso de redes neuronales en la sociedad y en mi campo de estudio?**
-Piensa en el impacto que las redes neuronales y la inteligencia artificial tienen en diferentes industrias. ¿Cómo puedes contribuir a un uso responsable y ético de estas tecnologías?
+6.	¿Qué impacto real puede tener la clasificación de imágenes, utilizando redes como VGG16, en la solución de problemas en diferentes industrias?
+a.	Piensa en sectores como la salud, la seguridad, o la robótica. ¿Cómo pueden estas soluciones basadas en visión por computadora influir de manera significativa en la automatización y mejora de procesos?
+
+7.	¿Qué aprendizajes de esta actividad me motivan a profundizar más en áreas específicas del aprendizaje automático o redes neuronales?
+a.	Ahora que has implementado una red compleja como VGG16, ¿qué otros modelos o técnicas te gustaría investigar? ¿Qué áreas del aprendizaje profundo captaron más tu interés?
+
 
 
 
