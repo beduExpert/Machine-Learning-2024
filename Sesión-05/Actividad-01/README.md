@@ -10,7 +10,7 @@ El objetivo de esta actividad es que implementes y comprendas el funcionamiento 
 2.	Carga del Dataset CIFAR10 desde [Link](https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders)
 3.	Divide el dataset en conjuntos de entrenamiento y prueba.
 4.	Asegúrate de normalizar las imágenes utilizando ``` torchvision.transforms ```  para que los valores de píxeles estén en un rango adecuado.
-5.	Importa la arquitectura VGG16 desde torchvision.models.
+5.	Importa la arquitectura VGG16 desde ```torchvision.models```.
 6.	Carga el modelo preentrenado y reemplaza la capa de salida de VGG16 para clasificar las imágenes en las 10 categorías del dataset CIFAR10. VGG16 está diseñado para 1000 clases, por lo que deberás ajustar la capa completamente conectada final (classifier).
 7.	Define la función de pérdida como CrossEntropyLoss y elige un optimizador adecuado, como SGD o Adam.
 8.	Configura los hiperparámetros del entrenamiento, como la tasa de aprendizaje, número de épocas y tamaño del batch.
