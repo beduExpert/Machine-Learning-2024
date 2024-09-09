@@ -15,7 +15,7 @@ De manera independiente, realiza lo siguiente:
 5.	Elige una arquitectura de red neuronal convolucional (CNN) para implementar, como VGG16, o considera otras arquitecturas como GoogLeNet o AlexNet si prefieres.
 6.	Importa el modelo seleccionado desde ```torchvision.models``` o implementa la arquitectura desde cero según tus necesidades.
 7.	Si estás utilizando una red preentrenada, ajusta la última capa para que coincida con el número de clases de tu dataset customizado.
-8.	Define la función de pérdida y el optimizador adecuados. La función de pérdida comúnmente utilizada es ```CrossEntropyLoss```, y los optimizadores pueden ser ```SG```D, ```Adam```, entre otros.
+8.	Define la función de pérdida y el optimizador adecuados. La función de pérdida comúnmente utilizada es ```CrossEntropyLoss```, y los optimizadores pueden ser ```SGD```, ```Adam```, entre otros.
 9.	Configura los hiper parámetros de entrenamiento como la tasa de aprendizaje, número de épocas y tamaño del batch.
 10.	Entrena la red CNN con tu dataset customizado. Monitorea la precisión y la pérdida en cada época para ajustar los hiperparámetros si es necesario.
 11.	Evalúa el modelo entrenado en el conjunto de prueba. Calcula métricas de rendimiento como la precisión, la matriz de confusión, recall y F1-score.
