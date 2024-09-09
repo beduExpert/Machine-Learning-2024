@@ -1,4 +1,4 @@
-# **Actividad 02 - CClasificación de imágenes sobre un dataset customizado**
+# **Actividad 02 - Clasificación de imágenes sobre un dataset customizado**
 
 ## 🎯 **Objetivo**
 El objetivo de la Actividad 02 es que implementes una red neuronal convolucional (CNN) en un dataset customizado, con el fin de desarrollar y adaptar modelos de deep learning a problemas específicos. Utilizando arquitecturas como VGG16 o alternativas que elijas, podrás personalizar la red para ajustarse a las características de tu dataset, experimentar con diferentes configuraciones y técnicas de entrenamiento, y evaluar el desempeño del modelo en tareas de clasificación. A través de esta actividad, adquirirás experiencia práctica en la aplicación de redes neuronales convolucionales a datos personalizados, mejorando tu habilidad para enfrentar desafíos en escenarios del mundo real.
