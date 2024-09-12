@@ -6,8 +6,6 @@ El objetivo de esta Actividad es que evalúes y compares la eficacia de dos enfo
 ---
 
 ## 📑 Instrucciones
-1. 	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)
-2.  Conecta Google Colab con tu cuenta de Kaggle
 1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
 2.  Conecta Google Colab con tu cuenta de Kaggle
 3.	Descarga del Dataset en Google Colab desde [Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)
