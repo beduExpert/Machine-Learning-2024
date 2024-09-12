@@ -24,9 +24,9 @@ En esta actividad, tu objetivo es desarrollar un modelo de árbol de decisión p
 
 9. 	Una vez que tu modelo esté entrenado, evalúa su rendimiento usando la métrica de exactitud (accuracy). También puedes calcular otras métricas como la matriz de confusión si es necesario.
 
-10. 	Genera una visualización del árbol de decisión para comprender mejor cómo el modelo está tomando decisiones
+10. Genera una visualización del árbol de decisión para comprender mejor cómo el modelo está tomando decisiones
 
-11. 	Finalmente, redacta un informe que incluya los siguientes puntos:
+11. Finalmente, redacta un informe que incluya los siguientes puntos:
 a. El desempeño del modelo, resaltando su exactitud. 
 b. La importancia de las características en la toma de decisiones del modelo.
 c. Una interpretación de los factores más relevantes para predecir el fármaco adecuado.
