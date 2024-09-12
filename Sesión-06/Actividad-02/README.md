@@ -7,8 +7,8 @@ Esta actividad tiene como objetivo que encuentres un nuevo dataset en Kaggle y a
 
 ## 📑 Instrucciones
 1.	Selección del Dataset
-a.	Dirígete a [Kaggle](https://www.kaggle.com/).
-b.	Navega a la sección de datasets y busca un dataset relevante para la tarea de clasificación o predicción basada en secuencias. Puedes elegir un dataset relacionado con análisis de sentimientos, series temporales, predicción de texto, entre otros.
+1.1	Dirígete a [Kaggle](https://www.kaggle.com/).
+1.2	Navega a la sección de datasets y busca un dataset relevante para la tarea de clasificación o predicción basada en secuencias. Puedes elegir un dataset relacionado con análisis de sentimientos, series temporales, predicción de texto, entre otros.
 
 2.	Análisis del Dataset
 a.	Descarga el dataset seleccionado y realiza un análisis preliminar para comprender sus características. Examina las variables disponibles, el tipo de datos y cualquier información relevante sobre el contexto del dataset.
