@@ -1,4 +1,4 @@
-# **Actividad 01 - Clasificación de Imágenes con CNN**
+# **Actividad 01 - Clasificación de sentimientos en mensajes de Twitter (X)**
 
 ## 🎯 **Objetivo**
 El objetivo de esta Actividad es que evalúes y compares la eficacia de dos enfoques de redes neuronales recurrentes en la clasificación de sentimientos de mensajes de Twitter. Utilizarás redes neuronales recurrentes tradicionales y Gated Recurrent Units (GRU) para determinar cuál de los dos métodos ofrece un mejor rendimiento en términos de precisión y manejo de dependencias contextuales en los datos secuenciales. Deberás implementar ambos tipos de redes, entrenarlas con un conjunto de datos de Twitter y analizar sus resultados para identificar cuál modelo se adapta mejor a la tarea de clasificación de sentimientos. Considera factores como la calidad de las predicciones y la eficiencia del entrenamiento para obtener una comprensión más profunda de las fortalezas y limitaciones de cada técnica en el procesamiento de lenguaje natural.
@@ -6,49 +6,63 @@ El objetivo de esta Actividad es que evalúes y compares la eficacia de dos enfo
 ---
 
 ## 📑 Instrucciones
-1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)
-2.  Conecta Google Colab con tu cuenta de Kaggle
-3.	Descarga del Dataset CIFAR10 en Google Colab desde [Link](https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders)
-4.	Divide el dataset en conjuntos de entrenamiento y prueba.
-5.	Asegúrate de normalizar las imágenes utilizando ``` torchvision.transforms ```  para que los valores de píxeles estén en un rango adecuado.
-6.	Importa la arquitectura VGG16 desde ```torchvision.models```.
-7.	Carga el modelo preentrenado y reemplaza la capa de salida de VGG16 para clasificar las imágenes en las 10 categorías del dataset CIFAR10. VGG16 está diseñado para 1000 clases, por lo que deberás ajustar la capa completamente conectada final (classifier).
-8.	Define la función de pérdida como ```CrossEntropyLoss``` y elige un optimizador adecuado, como ```SGD``` o ```Adam```.
-9.	Configura los hiperparámetros del entrenamiento, como la tasa de aprendizaje, número de épocas y tamaño del batch.
-10.	Entrena el modelo VGG16 utilizando el conjunto de datos CIFAR10. Asegúrate de guardar el progreso y ajustar los hiperparámetros según sea necesario.
-11.	Monitorea la precisión y la pérdida en cada época para evaluar el progreso del entrenamiento.
-12.	Evalúa el rendimiento del modelo utilizando el conjunto de prueba. Calcula métricas como la precisión global, matriz de confusión, recall y F1-score.
-13.	Visualiza los resultados del entrenamiento y la evaluación con gráficos que muestren la evolución de la pérdida y la precisión.
-14.	Realiza un reporte donde describas paso a paso la implementación de VGG16, las modificaciones en la arquitectura, los hiperparámetros seleccionados, y los resultados obtenidos.
-15.	Comparte tu reporte con el resto de la clase
+**1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
+**2.  Conecta Google Colab con tu cuenta de Kaggle**
+**3.	Descarga del Dataset en Google Colab desde [Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)**
+**4.	Preparación del entorno**
+a.	Asegúrate de tener acceso a un entorno de desarrollo adecuado con las librerías necesarias instaladas, como PyTorch para la implementación de redes neuronales.
+b.	Configura tu entorno de trabajo con las herramientas necesarias para procesar datos y construir modelos.
+**5.	Obtención y Preprocesamiento de Datos**
+a.	Descarga el conjunto de datos de mensajes de Twitter que será utilizado para la clasificación de sentimientos. Asegúrate de que el dataset esté en un formato adecuado (por ejemplo, CSV o JSON) y contenga etiquetas de sentimiento.
+b.	Realiza el preprocesamiento de los datos, que incluye la limpieza de texto (eliminación de URLs, menciones, y caracteres especiales), tokenización y conversión de texto a secuencias numéricas utilizando técnicas de vectorización (como Tokenizer en Keras o CountVectorizer en Scikit-learn).
+**6.	Construcción del Modelo**
+a.	Implementa una red neuronal recurrente simple utilizando una capa de RNN. Ajusta los parámetros de la red, como el número de unidades de la capa recurrente y la función de activación.
+b.	Compila y entrena el modelo con el conjunto de datos de entrenamiento. Utiliza funciones de pérdida adecuadas para la clasificación de sentimientos y optimizadores como Adam o RMSprop.
+c.	Implementa un modelo utilizando una capa GRU. Configura los parámetros de la capa GRU y compila el modelo de manera similar al modelo RNN.
+d.	Entrena el modelo GRU con el mismo conjunto de datos de entrenamiento y ajusta los hiperparámetros según sea necesario.
+**7.	Evaluación del Modelo**
+a.	Evalúa ambos modelos utilizando el conjunto de datos de prueba. Calcula métricas de rendimiento como precisión, recall, F1-score, exactitud y matriz de confusión para cada modelo.
+b.	Realiza una comparación de los resultados obtenidos de ambos modelos. Examina cómo cada uno maneja la clasificación de sentimientos y determina cuál ofrece un mejor rendimiento.
+**8.	Análisis y Discusión**
+a.	Documenta los resultados de la evaluación de ambos modelos en un informe.
+b.	Discute las ventajas y desventajas de cada enfoque en la tarea de clasificación de sentimientos. Considera aspectos como la calidad de las predicciones, la eficiencia del entrenamiento y la capacidad de manejar dependencias contextuales.
+c.	Proporciona una explicación detallada de cuál modelo consideras más adecuado para esta tarea y justifica tu elección basada en los resultados obtenidos.
+**9.	Entrega y Presentación**
+a.	Prepara un informe con los detalles del preprocesamiento de datos, la arquitectura de los modelos, los resultados de la evaluación y el análisis comparativo.
+b.	Adjunta cualquier código fuente relevante y gráficos de rendimiento en el informe.
+c.	Presenta tu informe al resto de la clase para obtener retroalimentación por parte de tus compañeros y del instructor
+
 
 
 ---
 
 ## ❓ **Momento de introspección**
 
-Antes de concluir esta actividad, es importante que tomes un momento para reflexionar y cuestionarte cómo puedes llevar a la práctica los conceptos y habilidades que has adquirido al implementar VGG16. Este ejercicio te permitirá no solo consolidar tu aprendizaje, sino también visualizar su aplicación en contextos del mundo real.
+Ahora que has completado la actividad de clasificación de sentimientos utilizando redes neuronales recurrentes y Gated Recurrent Units (GRU), tómate un momento para reflexionar sobre cómo puedes aplicar lo que has aprendido a problemas reales y a tu futuro profesional. Considera las siguientes preguntas para guiar tu reflexión:
 
-**1.	¿Cómo puedo aplicar lo que aprendí sobre redes neuronales convolucionales (CNN) en otros proyectos o problemas que involucren clasificación de imágenes?**
-a.	Piensa en otras áreas, además de CIFAR10, donde las CNN pueden ser útiles, como la medicina, la agricultura, o el análisis de video. ¿Cómo podrías adaptar o mejorar un modelo como VGG16 para esos escenarios?
+**¿Cómo puedes aplicar los conceptos de redes neuronales recurrentes (RNN) y GRU en problemas reales?**
+Piensa en áreas específicas, como el análisis de sentimientos en redes sociales, la predicción de series temporales o el procesamiento de lenguaje natural. ¿Qué otras aplicaciones prácticas podrían beneficiarse de estos métodos?
 
-**2.	¿De qué manera los conocimientos sobre el ajuste de hiper parámetros, como la tasa de aprendizaje o el optimizador, me ayudan a mejorar modelos en otros contextos?**
-a.	Considera proyectos pasados o futuros donde el ajuste de estos parámetros pueda mejorar el rendimiento de los modelos. ¿Qué técnicas podrías emplear para optimizar modelos en distintos conjuntos de datos?
+**¿Qué desafíos encontraste al trabajar con RNN y GRU?**
+Reflexiona sobre los problemas que enfrentaste durante el preprocesamiento de datos, la construcción y el entrenamiento de modelos. ¿Cómo podrías superar estos desafíos en futuros proyectos?
 
-**3.	¿Cómo puedo transferir el aprendizaje adquirido en esta actividad a otros dominios del machine learning o deep learning que me interesen?**
-a.	Si tu interés es, por ejemplo, el procesamiento de lenguaje natural (NLP) o el análisis de audio, ¿cómo podrían los principios de ajuste de redes neuronales aplicarse en esos campos?
+**¿Cómo afectó la complejidad de las arquitecturas RNN y GRU a los resultados de tus modelos?**
+Analiza la diferencia en el rendimiento entre el modelo RNN tradicional y el modelo GRU. ¿Qué aspectos de cada arquitectura impactaron la precisión y eficiencia de los modelos?
 
-**4.	¿Qué habilidades prácticas o conceptuales he desarrollado en el uso de PyTorch, y cómo puedo seguir perfeccionándolas?**
-a.	Piensa en cómo te has familiarizado con PyTorch durante esta actividad. ¿Cómo podrías usar esta habilidad en otros proyectos? ¿Qué desafíos enfrentaste que te gustaría explorar más a fondo para dominarlos?
+**¿Qué aprendizajes clave puedes extraer de la comparación entre RNN y GRU?**
+Considera cómo la elección de la arquitectura de red afecta la capacidad del modelo para manejar datos secuenciales y cómo esta elección influye en la calidad de las predicciones.
 
-**5.	¿Cómo puedo integrar el uso de arquitecturas pre entrenadas, como VGG16, en proyectos futuros para acelerar el desarrollo de soluciones?**
-a.	Reflexiona sobre los beneficios de usar modelos preentrenados en lugar de entrenar desde cero. ¿En qué casos futuros consideras que sería ventajoso reutilizar arquitecturas preexistentes?
+**¿Cómo puedes mejorar tu enfoque al trabajar con redes neuronales en el futuro?**
+Reflexiona sobre las prácticas y estrategias que utilizaste en esta actividad. ¿Qué mejoras podrías implementar para optimizar el rendimiento de tus modelos y la eficiencia del proceso de entrenamiento?
 
-**6.	¿Qué impacto real puede tener la clasificación de imágenes, utilizando redes como VGG16, en la solución de problemas en diferentes industrias?**
-a.	Piensa en sectores como la salud, la seguridad, o la robótica. ¿Cómo pueden estas soluciones basadas en visión por computadora influir de manera significativa en la automatización y mejora de procesos?
+**¿Qué habilidades y conocimientos adquiridos en esta actividad pueden ser útiles para tu desarrollo profesional?**
+Piensa en cómo las habilidades adquiridas al trabajar con RNN y GRU pueden aplicarse a proyectos futuros o en el ámbito profesional. ¿Cómo puedes aprovechar estas competencias para resolver problemas en tu campo de estudio o en tu carrera?
 
-**7.	¿Qué aprendizajes de esta actividad me motivan a profundizar más en áreas específicas del aprendizaje automático o redes neuronales?**
-a.	Ahora que has implementado una red compleja como VGG16, ¿qué otros modelos o técnicas te gustaría investigar? ¿Qué áreas del aprendizaje profundo captaron más tu interés?
+**¿Cómo puedes integrar el aprendizaje sobre redes neuronales recurrentes en otros proyectos o áreas de investigación?**
+Considera cómo los conceptos de redes neuronales recurrentes pueden ser relevantes en otras áreas de investigación o proyectos interdisciplinarios. ¿Qué nuevas oportunidades podrían surgir al aplicar estos conocimientos en diferentes contextos?
+
+Dedica unos minutos a responder estas preguntas en tu cuaderno de reflexiones o en un documento personal. Este proceso de introspección te ayudará a consolidar tu comprensión y a planificar cómo puedes aplicar lo aprendido en futuras actividades académicas o profesionales.
+tado una red compleja como VGG16, ¿qué otros modelos o técnicas te gustaría investigar? ¿Qué áreas del aprendizaje profundo captaron más tu interés?
 
 
 
