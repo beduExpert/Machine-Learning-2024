@@ -6,12 +6,12 @@ El objetivo de esta Actividad es que evalúes y compares la eficacia de dos enfo
 ---
 
 ## 📑 Instrucciones
-**1. 	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
-**2.  Conecta Google Colab con tu cuenta de Kaggle**
-**1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
-**2.  Conecta Google Colab con tu cuenta de Kaggle**
-**3.	Descarga del Dataset en Google Colab desde [Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)**
-**4.	Preparación del entorno**
+1. 	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
+2.  Conecta Google Colab con tu cuenta de Kaggle**
+1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
+2.  Conecta Google Colab con tu cuenta de Kaggle**
+3.	Descarga del Dataset en Google Colab desde [Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)**
+4.	Preparación del entorno**
 a.	Asegúrate de tener acceso a un entorno de desarrollo adecuado con las librerías necesarias instaladas, como PyTorch para la implementación de redes neuronales.
 b.	Configura tu entorno de trabajo con las herramientas necesarias para procesar datos y construir modelos.
 **5.	Obtención y Preprocesamiento de Datos**
