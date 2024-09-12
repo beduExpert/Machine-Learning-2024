@@ -6,30 +6,30 @@ El objetivo de esta Actividad es que evalúes y compares la eficacia de dos enfo
 ---
 
 ## 📑 Instrucciones
-1. 	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
-2.  Conecta Google Colab con tu cuenta de Kaggle**
+1. 	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)
+2.  Conecta Google Colab con tu cuenta de Kaggle
 1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)**
-2.  Conecta Google Colab con tu cuenta de Kaggle**
-3.	Descarga del Dataset en Google Colab desde [Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)**
-4.	Preparación del entorno**
+2.  Conecta Google Colab con tu cuenta de Kaggle
+3.	Descarga del Dataset en Google Colab desde [Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)
+4.	Preparación del entorno
 a.	Asegúrate de tener acceso a un entorno de desarrollo adecuado con las librerías necesarias instaladas, como PyTorch para la implementación de redes neuronales.
 b.	Configura tu entorno de trabajo con las herramientas necesarias para procesar datos y construir modelos.
-**5.	Obtención y Preprocesamiento de Datos**
+5.	Obtención y Preprocesamiento de Datos
 a.	Descarga el conjunto de datos de mensajes de Twitter que será utilizado para la clasificación de sentimientos. Asegúrate de que el dataset esté en un formato adecuado (por ejemplo, CSV o JSON) y contenga etiquetas de sentimiento.
 b.	Realiza el preprocesamiento de los datos, que incluye la limpieza de texto (eliminación de URLs, menciones, y caracteres especiales), tokenización y conversión de texto a secuencias numéricas utilizando técnicas de vectorización (como Tokenizer en Keras o CountVectorizer en Scikit-learn).
-**6.	Construcción del Modelo**
+6.	Construcción del Modelo
 a.	Implementa una red neuronal recurrente simple utilizando una capa de RNN. Ajusta los parámetros de la red, como el número de unidades de la capa recurrente y la función de activación.
 b.	Compila y entrena el modelo con el conjunto de datos de entrenamiento. Utiliza funciones de pérdida adecuadas para la clasificación de sentimientos y optimizadores como Adam o RMSprop.
 c.	Implementa un modelo utilizando una capa GRU. Configura los parámetros de la capa GRU y compila el modelo de manera similar al modelo RNN.
 d.	Entrena el modelo GRU con el mismo conjunto de datos de entrenamiento y ajusta los hiperparámetros según sea necesario.
-**7.	Evaluación del Modelo**
+7.	Evaluación del Modelo
 a.	Evalúa ambos modelos utilizando el conjunto de datos de prueba. Calcula métricas de rendimiento como precisión, recall, F1-score, exactitud y matriz de confusión para cada modelo.
 b.	Realiza una comparación de los resultados obtenidos de ambos modelos. Examina cómo cada uno maneja la clasificación de sentimientos y determina cuál ofrece un mejor rendimiento.
-**8.	Análisis y Discusión**
+8.	Análisis y Discusión
 a.	Documenta los resultados de la evaluación de ambos modelos en un informe.
 b.	Discute las ventajas y desventajas de cada enfoque en la tarea de clasificación de sentimientos. Considera aspectos como la calidad de las predicciones, la eficiencia del entrenamiento y la capacidad de manejar dependencias contextuales.
 c.	Proporciona una explicación detallada de cuál modelo consideras más adecuado para esta tarea y justifica tu elección basada en los resultados obtenidos.
-**9.	Entrega y Presentación**
+9.	Entrega y Presentación
 a.	Prepara un informe con los detalles del preprocesamiento de datos, la arquitectura de los modelos, los resultados de la evaluación y el análisis comparativo.
 b.	Adjunta cualquier código fuente relevante y gráficos de rendimiento en el informe.
 c.	Presenta tu informe al resto de la clase para obtener retroalimentación por parte de tus compañeros y del instructor
