@@ -6,7 +6,7 @@ El objetivo de esta Actividad es que evalúes y compares la eficacia de dos enfo
 ---
 
 ## 📑 Instrucciones
-1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](https://github.com/beduExpert/Machine-Learning-2024/blob/e9088f91f47e6dd0f309f74a0648aa0f6bfe490f/Sesi%C3%B3n-05/Actividad-01/Actividad%2001%20-%20VGG16%20sobre%20CIFAR10.ipynb)
+1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](Actividad_01_SentimentClassification_Twitter.ipynb)
 2.  Conecta Google Colab con tu cuenta de Kaggle
 3.	Descarga del Dataset CIFAR10 en Google Colab desde [Link](https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders)
 4.	Divide el dataset en conjuntos de entrenamiento y prueba.
