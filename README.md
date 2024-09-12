@@ -13,7 +13,7 @@
 3. 📈 [Sesión 03: Regresión lineal y regresión logística.](Sesión-03)
 4. 🧠 [Sesión 04: Redes neuronales.](Sesión-04)
 5. 💻 [Sesión 05: Redes neuronales convolucionales.](Sesión-05)
-6. ♻️ [Sesión 06: Redes neuronales recurrentes.]
+6. ♻️ [Sesión 06: Redes neuronales recurrentes.](Sesión-06)
 7. 🤖 [Sesión 07: Chatbots.]
 8. 🤖 [Sesión 08: Modelos grandes de lenguaje (LLMs).]
 9. 📁 [Datasets](Datasets)
