@@ -7,19 +7,33 @@ El objetivo de esta actividad es que implementes y comprendas el funcionamiento 
 
 ## 📑 Instrucciones
 1.	Abre el cuaderno proporcionado, el cual lo puedes encontrar en [Cuaderno](https://github.com/beduExpert/Machine-Learning-2024/blob/e9088f91f47e6dd0f309f74a0648aa0f6bfe490f/Sesi%C3%B3n-05/Actividad-01/Actividad%2001%20-%20VGG16%20sobre%20CIFAR10.ipynb)
+
 2.  Conecta Google Colab con tu cuenta de Kaggle
+
 3.	Descarga del Dataset CIFAR10 en Google Colab desde [Link](https://www.kaggle.com/datasets/swaroopkml/cifar10-pngs-in-folders)
+
 4.	Divide el dataset en conjuntos de entrenamiento y prueba.
+
 5.	Asegúrate de normalizar las imágenes utilizando ``` torchvision.transforms ```  para que los valores de píxeles estén en un rango adecuado.
+
 6.	Importa la arquitectura VGG16 desde ```torchvision.models```.
+
 7.	Carga el modelo preentrenado y reemplaza la capa de salida de VGG16 para clasificar las imágenes en las 10 categorías del dataset CIFAR10. VGG16 está diseñado para 1000 clases, por lo que deberás ajustar la capa completamente conectada final (classifier).
+
 8.	Define la función de pérdida como ```CrossEntropyLoss``` y elige un optimizador adecuado, como ```SGD``` o ```Adam```.
+
 9.	Configura los hiperparámetros del entrenamiento, como la tasa de aprendizaje, número de épocas y tamaño del batch.
+
 10.	Entrena el modelo VGG16 utilizando el conjunto de datos CIFAR10. Asegúrate de guardar el progreso y ajustar los hiperparámetros según sea necesario.
+
 11.	Monitorea la precisión y la pérdida en cada época para evaluar el progreso del entrenamiento.
+
 12.	Evalúa el rendimiento del modelo utilizando el conjunto de prueba. Calcula métricas como la precisión global, matriz de confusión, recall y F1-score.
+
 13.	Visualiza los resultados del entrenamiento y la evaluación con gráficos que muestren la evolución de la pérdida y la precisión.
+
 14.	Realiza un reporte donde describas paso a paso la implementación de VGG16, las modificaciones en la arquitectura, los hiperparámetros seleccionados, y los resultados obtenidos.
+
 15.	Comparte tu reporte con el resto de la clase
 
 
