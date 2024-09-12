@@ -7,22 +7,22 @@ Esta actividad tiene como objetivo que encuentres un nuevo dataset en Kaggle y a
 
 ## 📑 Instrucciones
 1.	Selección del Dataset
-1.1	Dirígete a [Kaggle](https://www.kaggle.com/).
-1.2	Navega a la sección de datasets y busca un dataset relevante para la tarea de clasificación o predicción basada en secuencias. Puedes elegir un dataset relacionado con análisis de sentimientos, series temporales, predicción de texto, entre otros.
+a.	Dirígete a [Kaggle](https://www.kaggle.com/).
+b.	Navega a la sección de datasets y busca un dataset relevante para la tarea de clasificación o predicción basada en secuencias. Puedes elegir un dataset relacionado con análisis de sentimientos, series temporales, predicción de texto, entre otros.
 
-2.	Análisis del Dataset
+3.	Análisis del Dataset
 a.	Descarga el dataset seleccionado y realiza un análisis preliminar para comprender sus características. Examina las variables disponibles, el tipo de datos y cualquier información relevante sobre el contexto del dataset.
-3.	Preprocesamiento de Datos:
+4.	Preprocesamiento de Datos:
 a.	Preprocesa el dataset según sea necesario. Esto puede incluir la limpieza de datos, la normalización o estandarización, la división en conjuntos de entrenamiento y prueba, y la transformación de datos en un formato adecuado para el modelo.
 
-4.	Implementación de Modelos
+5.	Implementación de Modelos
 a.	Red Neuronal Recurrente (RNN): Construye y entrena un modelo RNN con el dataset. Asegúrate de ajustar los hiperparámetros y evaluar el rendimiento utilizando métricas adecuadas.
 b.	Gated Recurrent Unit (GRU): Construye y entrena un modelo GRU con el mismo dataset. Al igual que con el modelo RNN, ajusta los hiperparámetros y evalúa el rendimiento.
 
-5.	Comparación de Modelos
+6.	Comparación de Modelos
 a.	Compara los resultados de los modelos RNN y GRU en términos de precisión, recall, F1 score, o cualquier otra métrica relevante para la tarea. Analiza cómo cada modelo maneja el dataset y cuál ofrece un mejor rendimiento en función de tus evaluaciones.
 
-6.	Documentación y Presentación
+7.	Documentación y Presentación
 a.	Documenta tus hallazgos, incluyendo el proceso de selección y preprocesamiento del dataset, la implementación y ajuste de los modelos, y los resultados de la comparación.
 b.	Prepara un informe o presentación que resuma tus métodos, resultados y conclusiones. Asegúrate de destacar las diferencias observadas entre los dos enfoques y justificar cuál modelo es más adecuado para el dataset seleccionado.
 c.	Presenta tu informe al resto de la clase para que recibas retroalimentación de tus compañeros y del instructor.
