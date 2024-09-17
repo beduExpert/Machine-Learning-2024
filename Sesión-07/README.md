@@ -47,7 +47,7 @@ Dialogflow es una plataforma desarrollada por Google que permite diseñar y cons
 ### ✏️ Actividades
 
 #### 📕 **[Actividad 01: Pizzabot](/Sesión-07/Actividad-01/README.md)**
-#### 📕 **[Actividad 02: Chatbot para tu Proyecto Final](/Sesión-06/Actividad-02/README.md)**
+#### 📕 **[Actividad 02: Chatbot para tu Proyecto Final](/Sesión-07/Actividad-02/README.md)**
 
 
 ---
