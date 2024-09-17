@@ -1,7 +1,7 @@
-# **Actividad 02 -Clasificación de sentimientos en un conjunto de datos customizado**
+# **Actividad 02 - Chatbot**
 
 ## 🎯 **Objetivo**
-Esta actividad tiene como objetivo que encuentres un nuevo dataset en Kaggle y apliques tanto redes neuronales recurrentes (RNN) como Gated Recurrent Units (GRU) para realizar una comparación de rendimiento entre ambos enfoques.
+El objetivo de esta actividad es que los estudiantes apliquen de manera práctica los conocimientos adquiridos sobre el desarrollo de chatbots, creando de manera independiente un asistente virtual relacionado con su proyecto final. A través de esta tarea, los estudiantes podrán fortalecer su comprensión sobre el uso de tecnologías de procesamiento del lenguaje natural (NLP), reconocimiento de intenciones y entidades, así como el diseño de flujos conversacionales efectivos. Además, se busca fomentar la creatividad y la personalización de soluciones automatizadas para responder a necesidades específicas, desarrollando herramientas útiles y aplicables en un contexto profesional.
 
 ---
 
