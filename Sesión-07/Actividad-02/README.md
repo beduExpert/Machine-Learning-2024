@@ -6,26 +6,33 @@ El objetivo de esta actividad es que los estudiantes apliquen de manera práctic
 ---
 
 ## 📑 Instrucciones
-1.	Selección del Dataset
-a)	Dirígete a [Kaggle](https://www.kaggle.com/).
-b)	Navega a la sección de datasets y busca un dataset relevante para la tarea de clasificación o predicción basada en secuencias. Puedes elegir un dataset relacionado con análisis de sentimientos, series temporales, predicción de texto, entre otros.
+**1.	Identifica el objetivo del chatbot**
+Reflexiona sobre el propósito de tu proyecto final y define cómo un chatbot podría mejorar, automatizar o simplificar algún aspecto clave de tu proyecto. Por ejemplo, si tu proyecto se centra en un sistema de gestión de inventarios, el chatbot podría responder preguntas sobre el estado de los productos o ayudar a gestionar pedidos.
 
-3.	Análisis del Dataset
-a.	Descarga el dataset seleccionado y realiza un análisis preliminar para comprender sus características. Examina las variables disponibles, el tipo de datos y cualquier información relevante sobre el contexto del dataset.
-4.	Preprocesamiento de Datos:
-a.	Preprocesa el dataset según sea necesario. Esto puede incluir la limpieza de datos, la normalización o estandarización, la división en conjuntos de entrenamiento y prueba, y la transformación de datos en un formato adecuado para el modelo.
+**2.	Define las intenciones del usuario**
+Crea una lista de intenciones, es decir, las acciones que el usuario puede realizar al interactuar con el chatbot. Ejemplos incluyen "realizar una consulta", "hacer un pedido", "buscar información", entre otros. Asegúrate de que las intenciones estén alineadas con el tema de tu proyecto.
 
-5.	Implementación de Modelos
-a.	Red Neuronal Recurrente (RNN): Construye y entrena un modelo RNN con el dataset. Asegúrate de ajustar los hiperparámetros y evaluar el rendimiento utilizando métricas adecuadas.
-b.	Gated Recurrent Unit (GRU): Construye y entrena un modelo GRU con el mismo dataset. Al igual que con el modelo RNN, ajusta los hiperparámetros y evalúa el rendimiento.
+**3.	Diseña entidades relevantes**
+Identifica los elementos específicos que tu chatbot necesita reconocer para interactuar correctamente con los usuarios. Por ejemplo, si estás desarrollando un chatbot para una tienda, las entidades podrían ser el nombre de los productos, categorías o precios. Entrena el chatbot para que reconozca y extraiga esta información de las solicitudes de los usuarios.
 
-6.	Comparación de Modelos
-a.	Compara los resultados de los modelos RNN y GRU en términos de precisión, recall, F1 score, o cualquier otra métrica relevante para la tarea. Analiza cómo cada modelo maneja el dataset y cuál ofrece un mejor rendimiento en función de tus evaluaciones.
+**4.	Establece el flujo conversacional**
+Diseña la secuencia de interacción entre el usuario y el chatbot. Piensa en cómo la conversación debe desarrollarse desde que el usuario inicia la interacción hasta que se cumple su objetivo. Asegúrate de usar contextos para mantener la coherencia durante la conversación, de manera que el chatbot pueda recordar detalles y responder de manera adecuada.
 
-7.	Documentación y Presentación
-a.	Documenta tus hallazgos, incluyendo el proceso de selección y preprocesamiento del dataset, la implementación y ajuste de los modelos, y los resultados de la comparación.
-b.	Prepara un informe o presentación que resuma tus métodos, resultados y conclusiones. Asegúrate de destacar las diferencias observadas entre los dos enfoques y justificar cuál modelo es más adecuado para el dataset seleccionado.
-c.	Presenta tu informe al resto de la clase para que recibas retroalimentación de tus compañeros y del instructor.
+**5.	Configura respuestas a errores y preguntas generales**
+Asegúrate de que tu chatbot pueda manejar situaciones en las que no entienda lo que el usuario está pidiendo. Diseña respuestas alternativas o generales para preguntas fuera de contexto y ajusta los errores para que la conversación sea lo más fluida posible.
+
+**6.	Prueba y ajusta el chatbot**
+Realiza pruebas con tu chatbot para verificar que las intenciones y entidades funcionen correctamente. Ajusta las configuraciones en caso de que no se respondan bien ciertas solicitudes o el chatbot no interprete las intenciones del usuario. Es importante hacer iteraciones y mejoras basadas en estas pruebas.
+
+**7.	Documenta el proceso de desarrollo**
+Crea un reporte donde expliques el objetivo de tu chatbot, las intenciones y entidades que desarrollaste, y cómo diseñaste el flujo conversacional. Incluye las pruebas que realizaste y los ajustes que hiciste para mejorar su funcionalidad.
+
+**8.	Crea una demostración en video**
+Graba un video breve (2-3 minutos) en el que se muestre el chatbot en funcionamiento. El video debe demostrar cómo el chatbot es capaz de gestionar una o más intenciones de manera efectiva, desde el inicio de la conversación hasta la conclusión de la tarea del usuario.
+
+**9.	Comparte tu video con la clase**
+Comparte tu video o realiza una presentación en vivo del funcionamiento de tu chatbot para que recibas retroalimentación por parte de tus compañeros e instructor.
+
 
 
 
@@ -34,23 +41,28 @@ c.	Presenta tu informe al resto de la clase para que recibas retroalimentación 
 
 ## ❓ **Momento de introspección**
 
-Después de completar la actividad de clasificación de sentimientos en Twitter y de explorar el rendimiento de las RNN y GRU en un nuevo dataset, es importante reflexionar sobre cómo puedes aplicar los conceptos y técnicas aprendidos en situaciones prácticas. Tómate un momento para considerar las siguientes preguntas que te ayudarán a conectar lo aprendido con aplicaciones reales y futuras investigaciones:
+Antes de continuar, tómate un momento para reflexionar sobre lo que has aprendido en el desarrollo de chatbots y cómo puedes aplicar estos conocimientos en otros contextos. Estas preguntas te ayudarán a profundizar en cómo llevar a la práctica lo aprendido y maximizar el impacto de tus nuevas habilidades:
 
-**¿Cómo has observado la diferencia en el rendimiento entre RNN y GRU en el dataset seleccionado?** Reflexiona sobre cómo cada tipo de red manejó el problema específico que enfrentaste y qué características del dataset pudieron haber influido en su rendimiento.
+**1.	¿Cómo crees que el chatbot que desarrollaste puede mejorar o automatizar procesos dentro del proyecto final?**
+Piensa en qué tan eficiente es la solución que has creado y si podría aplicarse en situaciones reales o en el ámbito laboral.
 
-**¿Qué desafíos encontraste al implementar y comparar RNN y GRU?** Considera los problemas técnicos o conceptuales que surgieron y cómo los resolviste. ¿Hubo aspectos del proceso que podrías mejorar en futuros proyectos?
+**2.	¿Qué aspectos de la experiencia del usuario fueron más difíciles de implementar?**
+Reflexiona sobre los desafíos al diseñar un flujo de conversación fluido. ¿Cómo puedes mejorar la interacción para que sea más intuitiva y natural?
 
-**¿Cómo puedes adaptar las técnicas de RNN y GRU para abordar otros tipos de datos o problemas?** Piensa en cómo los conocimientos adquiridos podrían aplicarse a diferentes dominios, como el análisis de series temporales financieras, la generación de texto o la predicción de secuencias en datos médicos.
+**3.	¿Qué rol juega el procesamiento del lenguaje natural (NLP) en la capacidad del chatbot para comprender y responder adecuadamente?**
+Considera cómo podrías entrenar mejor las intenciones y entidades, y cómo el uso de NLP puede hacer que tu chatbot sea más flexible y efectivo.
 
-**¿Qué habilidades has desarrollado a lo largo de esta actividad que te serán útiles en el futuro?** Evalúa cómo el trabajo con RNN y GRU ha ampliado tus habilidades técnicas y analíticas y cómo puedes usar estas habilidades en proyectos personales o profesionales.
+**4.	¿Cómo podrías utilizar lo aprendido en la creación de un chatbot en otros proyectos o sectores?**
+Piensa en cómo los conceptos que manejaste en esta actividad podrían adaptarse para otras industrias, como el servicio al cliente, la educación o la salud.
 
-**¿Cómo puedes utilizar los modelos de redes neuronales recurrentes para mejorar soluciones existentes en tu área de interés?** Reflexiona sobre posibles aplicaciones prácticas de RNN y GRU en tu campo de estudio o en tu carrera profesional. ¿Existen áreas donde podrías implementar estas técnicas para resolver problemas o innovar?
+**5.	¿Qué importancia tienen los errores o respuestas genéricas en la experiencia final del usuario?**
+Evalúa cómo manejaste situaciones en las que el chatbot no entendió las solicitudes. ¿Qué cambios podrías hacer para que el chatbot aprenda de estas interacciones y mejore su precisión?
 
-**¿Qué aspectos de la implementación de modelos de RNN y GRU aún te resultan poco claros o desafiantes?** Identifica áreas en las que necesitas profundizar más y considera qué recursos adicionales podrías consultar para mejorar tu comprensión y habilidades.
+**6.	Si tuvieras que empezar de nuevo, ¿qué harías diferente en el diseño y desarrollo del chatbot?**
+Reflexiona sobre las decisiones que tomaste durante el proceso. ¿Cambiarías algo en el diseño de las intenciones o en el flujo conversacional para optimizar su rendimiento?
 
-**¿Cómo puedes compartir y aplicar lo aprendido en colaboración con otros?** Piensa en cómo podrías utilizar tus nuevos conocimientos para trabajar en equipo, colaborar en proyectos conjuntos o contribuir a la comunidad académica o profesional.
+Este ejercicio de introspección te permitirá no solo consolidar lo aprendido, sino también identificar áreas de mejora y posibles aplicaciones futuras de tus conocimientos en el desarrollo de chatbots.
 
-Estas preguntas están diseñadas para ayudarte a consolidar lo aprendido y considerar cómo aplicar los conceptos en escenarios reales. Reflexionar sobre estas cuestiones te permitirá integrar mejor los conocimientos adquiridos y planificar futuros proyectos con mayor efectividad.
 
 
 
