@@ -52,4 +52,4 @@ Dialogflow es una plataforma desarrollada por Google que permite diseñar y cons
 
 ---
 
-⬅️ [**Anterior**](../Sesión-05/README.md) | [**Siguiente**](../Sesión-07/README.md)➡️
+⬅️ [**Anterior**](../Sesión-06/README.md) | [**Siguiente**](../Sesión-08/README.md)➡️
