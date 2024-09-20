@@ -46,7 +46,7 @@ La regresión logística, a diferencia de lo que sugiere su nombre, no es un pro
 
 ### ✏️ Actividades
 
-#### 📕 **[Actividad 01: Aplicación de Regresión Logística para Determinar el Precio de un Seguro](/Sesión-03/Actividad-01/README.md)**
+#### 📕 **[Actividad 01: Aplicación de Regresión Lineal para Determinar el Precio de un Seguro](/Sesión-03/Actividad-01/README.md)**
 #### 📕 **[Actividad 02: Aplicación de Regresión Lineal para Predecir el Precio de Coches](/Sesión-03/Actividad-02/README.md)**
 #### 📕 **[Actividad 03: Aplicación de Regresión Logística para Diagnóstico de Diabetes](/Sesión-03/Actividad-03/README.md)**
 #### 📕 **[Actividad 04: Aplicación de Regresión Logística para Diagnóstico de Cáncer de Mama](/Sesión-03/Actividad-04/README.md)**
