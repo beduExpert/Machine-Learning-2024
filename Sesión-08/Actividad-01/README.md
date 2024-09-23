@@ -7,7 +7,7 @@ El objetivo de esta actividad es que comprendas y experimentes de manera prácti
 
 ## 📑 Instrucciones
 Con la ayuda del instructor, sigue las siguientes instrucciones.
-1. Entra al siguiente [enlace](https://colab.research.google.com/drive/1-sLYNrG6wWUlFWRQD4E9_p_m57gyTkDb?usp=sharing) de Google Colab proporcionado por el profesor.
+1. Entra al siguiente [enlace](Actividad_01_GeneracionTexto.ipynb) de Google Colab proporcionado por el profesor.
 2. Una vez en Google Colab, revisa el código proporcionado que utiliza un Modelo Grande de Lenguaje (como GPT) para generar texto
 3.	Familiarízate con las celdas de código y los comentarios, que explican el funcionamiento básico del modelo.
 4.	Ejecuta cada celda de código presionando el botón de "play" a la izquierda de cada una o usando el atajo de teclado
