@@ -26,29 +26,35 @@ Con la ayuda del instructor, sigue las siguientes instrucciones.
 
 ## ❓ **Momento de introspección**
 
-Después de realizar la actividad y explorar el uso de los Modelos Grandes de Lenguaje (LLMs), es fundamental reflexionar sobre cómo estos conocimientos pueden impactar tus futuras experiencias académicas, laborales y personales. A continuación, se presenta una serie de preguntas que te invitan a cuestionar y analizar cómo llevar a la práctica lo aprendido:
+Después de completar la actividad de creación de música con Suno, es crucial dedicar un momento a reflexionar sobre cómo la experiencia y los conceptos aprendidos pueden aplicarse en contextos prácticos y creativos. A continuación, se presentan una serie de preguntas para que te cuestionas y analices tu aprendizaje:
 
-**1.	Entendiendo el Potencial de los LLMs:**
-•	¿Cómo podrían los LLMs transformar las tareas en tu área de estudio o trabajo?
-•	¿Qué aplicaciones prácticas crees que podrías implementar con LLMs en proyectos o investigaciones en los que participes?
-•	¿De qué manera los LLMs podrían optimizar tareas rutinarias en tu vida diaria o en tu futura carrera profesional?
+**1.	Conexión entre Tecnología y Creatividad:**
+•	¿Cómo ha cambiado tu percepción sobre la relación entre la inteligencia artificial y la creación artística?
+•	¿Qué aspectos del proceso de creación musical te parecieron más desafiantes o sorprendentes?
 
-**2.	Identificando Oportunidades:**
-•	¿Qué desafíos actuales en tu entorno crees que podrían resolverse o mejorarse utilizando LLMs?
-•	¿Cómo podrías utilizar los conocimientos sobre generación de texto y auto-atención (self-attention) para mejorar procesos de análisis de datos o toma de decisiones?
+**2.	Aplicaciones Prácticas en Proyectos Futuros:**
+•	¿De qué otras maneras podrías utilizar herramientas de IA como Suno en tus proyectos académicos o personales?
+•	¿Existen otros géneros musicales o formas de arte que te gustaría explorar utilizando inteligencia artificial?
 
-**3.	Reflexionando sobre Desafíos Éticos:**
-•	¿Cómo puedes abordar o mitigar los sesgos que los LLMs pueden incorporar en sus respuestas al aplicarlos en tus proyectos?
-•	¿Qué precauciones tomarías al utilizar un LLM para asegurarte de que su uso sea ético y responsable?
-•	¿Cómo podrías contribuir a crear conciencia sobre los riesgos de desinformación al emplear modelos de lenguaje en aplicaciones que impacten a otros?
+**3.	Desarrollo de Habilidades:**
+•	¿Qué habilidades consideras que has desarrollado o mejorado al trabajar con herramientas de creación musical?
+•	¿Cómo puedes seguir desarrollando estas habilidades en el futuro? ¿Qué recursos o plataformas adicionales podrías explorar?
 
-**4.	Pensando en el Futuro:**
-•	¿Cómo ves la evolución de los LLMs en los próximos años? ¿Cómo planeas estar al tanto de los avances?
-•	¿Qué habilidades adicionales crees que deberías desarrollar para trabajar con LLMs de manera más efectiva en el futuro?
-•	¿De qué manera crees que los LLMs cambiarán el panorama laboral o académico en los próximos 5 a 10 años?
+**4. Impacto en la Industria Creativa:**
+•	¿Cómo crees que la inteligencia artificial está transformando la industria musical y artística en general?
+•	¿Qué desafíos crees que enfrentan los artistas al integrar herramientas de IA en su proceso creativo?
 
-**Próximos pasos**
+**5.	Ética y Responsabilidad:**
+•	¿Qué consideraciones éticas surgen al utilizar inteligencia artificial para crear música o cualquier tipo de contenido artístico?
+•	¿Cómo puedes asegurarte de que el uso de estas herramientas sea responsable y ético en tus futuros proyectos?
 
-Reflexiona sobre tus respuestas a estas preguntas y cómo puedes integrar lo aprendido en tus proyectos actuales o futuros. Considera también cómo podrías seguir explorando esta tecnología, investigando más sobre sus limitaciones y ventajas para aprovechar su máximo potencial.
+**6.	Integración en tu Educación:**
+•	¿De qué manera la actividad de creación musical puede integrarse en tus estudios de machine learning u otras áreas académicas?
+•	¿Qué aprendizajes de esta actividad crees que podrían ser útiles en contextos más amplios, como en colaboraciones interdisciplinares?
+
+**Reflexión Final**
+
+Considera cómo las respuestas a estas preguntas te ayudarán a consolidar lo aprendido y a planificar cómo aplicarás estos conceptos y habilidades en tu vida académica, profesional y creativa.
+
 
 
