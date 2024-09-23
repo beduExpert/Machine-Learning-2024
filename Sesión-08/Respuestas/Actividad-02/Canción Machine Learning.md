@@ -1,7 +1,7 @@
 **Verso 1**
 
-Empieza el viaje en inteligencia artificial,
-Con datos entrenamos, eso es lo esencial.
+Empieza el viaje en inteligencia artificial,  
+Con datos entrenamos, eso es lo esencial.  
 Supervisado, sin supervisar,
 Diferentes caminos, ¿cuál vas a tomar?
 
