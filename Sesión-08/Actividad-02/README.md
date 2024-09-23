@@ -2,6 +2,7 @@
 
 ## 🎯 **Objetivo**
 El objetivo de esta actividad es que, a través de la creatividad y el uso de un modelo de lenguaje como ChatGPT, puedas reforzar los conceptos clave del curso de machine learning. Al generar una canción relacionada con los temas vistos en clase, no solo se busca que internalices el contenido de manera lúdica, sino también que explores nuevas formas de comunicar ideas técnicas complejas. Esta actividad fomenta tanto el aprendizaje significativo como el desarrollo de habilidades innovadoras para transmitir conocimiento.
+
 ---
 
 ## 📑 Instrucciones
