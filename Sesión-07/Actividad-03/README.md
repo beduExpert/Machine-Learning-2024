@@ -10,6 +10,11 @@ Con la ayuda del instructor realiza lo siguiente:
 
 1. Creación de una página de Facebook para tu proyecto final
     1. Entra a [Facebook](https://www.facebook.com/)
+    2. Inicia sesión con tu cuenta
+    3. En la parte izquierda, da clic en “Ver más”, como se ve a continuación
+       <div align="center">
+        <img src="BEDU.JPG">
+        </div>
 
 
 
