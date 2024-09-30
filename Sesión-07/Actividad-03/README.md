@@ -65,7 +65,7 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     11. Ve hacía la parte inferior de la página a la sección “2. Generar tokens de acceso” y da clic en “Conectar”
         <div align="center">
-        <img src="images/13.JPG", width="400">
+        <img src="images/13.JPG", width="600">
         </div>
     12. Selecciona la página a la cual quieres agregar tu Chatbot. En mi caso, agregaré “Pizza_Bot” a la página “Pizza AI”. Posteriormente da clic en “Continuar”, “Guardar” y “De acuerdo”
         <div align="center">
@@ -73,7 +73,7 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     13. Volvemos a ir a la sección “2. Generar tokens de acceso” pero esta vez daremos clic en “Generar”
         <div align="center">
-        <img src="images/15.JPG", width="400">
+        <img src="images/15.JPG", width="600">
         </div>
     14. Del cuadro de diálogo que te apareció, da clic en “Acepto” y copia el token. Es muy importante que no compartas con nadie este token de acceso.
         <div align="center">
