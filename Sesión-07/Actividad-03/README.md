@@ -20,7 +20,9 @@ Con la ayuda del instructor realiza lo siguiente:
         <img src="images/2.JPG", width="400">
         </div>
     6. Da clic en “Página pública” y da clic en “Siguiente”
-    
+        <div align="center">
+        <img src="images/3.JPG", width="400">
+        </div>
     8. Comienza a crear tu página de Facebook sobre tu proyecto final. Por el momento solo crea tu página, la podrás personalizar en otro momento
 2. Conectando tu Chatbot de Dialogflow con Messenger de tu página de Facebook. En este caso utilizaré PizzaBot como ejemplo
     1. De lado izquierdo, da clic en “Integrations”
