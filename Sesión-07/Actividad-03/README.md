@@ -45,11 +45,11 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     7. Da clic en “Siguiente”, como se ve a continuación
        <div align="center">
-        <img src="images/8.JPG", width="400">
+        <img src="images/8.JPG", width="600">
         </div>
     9. Posteriormente selecciona “Otro” y en “Siguiente”
         <div align="center">
-        <img src="images/9.JPG", width="400">
+        <img src="images/9.JPG", width="600">
         </div>
     11. Selecciona “Negocios” como el tipo de tu app
         <div align="center">
