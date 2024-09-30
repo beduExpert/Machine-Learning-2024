@@ -13,7 +13,7 @@ Con la ayuda del instructor realiza lo siguiente:
     2. Inicia sesión con tu cuenta
     3. En la parte izquierda, da clic en “Ver más”, como se ve a continuación
        <div align="center">
-        <img src="../images/1.JPG">
+        <img src="/images/1.JPG">
         </div>
 
 
