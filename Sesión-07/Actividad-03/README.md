@@ -7,24 +7,8 @@ El objetivo de esta actividad es que desarrolles e integres un chatbot utilizand
 
 ## 📑 Instrucciones
 Con la ayuda del instructor realiza lo siguiente:  
-1. Dog
 
-1.1. German Shepherd
-
-1.2. Belgian Shepherd
-
-1.2.1. Malinois
-
-1.2.2. Groenendael
-
-1.2.3. Tervuren
-
-2. Cat
-
-2.1. Siberian
-
-2.2. Siamese
-
+1. Creación de una página de Facebook para tu proyecto final
 
 
 
