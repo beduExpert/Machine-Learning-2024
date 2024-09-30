@@ -13,7 +13,7 @@ Con la ayuda del instructor realiza lo siguiente:
     2. Inicia sesión con tu cuenta
     3. En la parte izquierda, da clic en “Ver más”, como se ve a continuación
        <div align="center">
-        <img src="images/1.JPG", width="10">
+        <img src="images/1.JPG", width="50">
         </div>
     4. A continuación, da clic en “Páginas” y posteriormente en “Crear nuevo perfil o página”
        <div align="center">
