@@ -17,7 +17,7 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     4. A continuación, da clic en “Páginas” y posteriormente en “Crear nuevo perfil o página”
         <div align="center">
-        <img src="images/1.JPG", width="200">
+        <img src="images/2.JPG", width="200">
         </div>
     6. Da clic en “Página pública” y da clic en “Siguiente”
     
