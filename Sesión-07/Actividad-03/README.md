@@ -25,6 +25,7 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     8. Comienza a crear tu página de Facebook sobre tu proyecto final. Por el momento solo crea tu página, la podrás personalizar en otro momento
 2. Conectando tu Chatbot de Dialogflow con Messenger de tu página de Facebook. En este caso utilizaré PizzaBot como ejemplo
+    1. De lado izquierdo, da clic en “Integrations”
 
 
 
