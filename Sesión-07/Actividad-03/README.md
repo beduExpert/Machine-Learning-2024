@@ -53,15 +53,15 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     8. Selecciona “Negocios” como el tipo de tu app
         <div align="center">
-        <img src="images/10.JPG", width="400">
+        <img src="images/10.JPG", width="600">
         </div>
     9. Coloca un nombre a tu app y coloca tu correo electrónico y da clic en “Crear App”
         <div align="center">
-        <img src="images/11.JPG", width="400">
+        <img src="images/11.JPG", width="600">
         </div>
     10. Una vez que hayas creado tu App, de la página que apareció, en la parte de la derecha, busca “Messenger” y da clic en “Configurar”
         <div align="center">
-        <img src="images/12.JPG", width="400">
+        <img src="images/12.JPG", width="600">
         </div>
     11. Ve hacía la parte inferior de la página a la sección “2. Generar tokens de acceso” y da clic en “Conectar”
         <div align="center">
