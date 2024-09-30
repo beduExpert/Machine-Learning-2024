@@ -81,19 +81,19 @@ Con la ayuda del instructor realiza lo siguiente:
         </div>
     15. Ahora dirígete a tu chatbot en Dialogflow y pega tu token de acceso en el campo “Page Access Token”. Además, en el campo “Verify Token” escribe la palabra “facebook” como palabra de verificación. Por último, da clic en “Start”
         <div align="center">
-        <img src="images/17.JPG", width="400">
+        <img src="images/17.JPG", width="600">
         </div>
     16. Ahora dirígete a la página de desarrolladores de Facebook, en la sección “1. Configurar webhooks” y da clic en “Configure”
         <div align="center">
-        <img src="images/18.JPG", width="400">
+        <img src="images/18.JPG", width="600">
         </div>
     17. En el campo “URL de devolución de llamada” pega la información que se encuentra en tu Chatbot en el campo “Callback URL”. En el campo “Token de verificación” escribe tu token de verificación que creaste, en nuestro caso fue “facebook”. Por último da clic en “Verificar y guardar”
         <div align="center">
-        <img src="images/19.JPG", width="400">
+        <img src="images/19.JPG", width="600">
         </div>
     18. En la página de Facebook developers, en la sección “2. Generar tokens de acceso”, dar clic en “Agregar suscripciones” y agregar las siguientes:
         <div align="center">
-        <img src="images/20.JPG", width="400">
+        <img src="images/20.JPG", width="600">
         </div>
     19. Por último, clic en “Confirm”
   
