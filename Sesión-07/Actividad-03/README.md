@@ -33,11 +33,11 @@ Con la ayuda del instructor realiza lo siguiente:
     3. Ir a https://developers.facebook.com/
     4. Iniciar sesión con la cuenta que se creo la página de Facebook
         <div align="center">
-        <img src="images/5.JPG", width="400">
+        <img src="images/5.JPG", width="600">
         </div>
     5. Una vez que hayas iniciado sesión, da clic en Mis apps y clic en “Crear App”
        <div align="center">
-        <img src="images/6.JPG", width="400">
+        <img src="images/6.JPG", width="600">
         </div>
 
         <div align="center">
