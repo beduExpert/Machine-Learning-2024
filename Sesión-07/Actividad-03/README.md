@@ -1,4 +1,4 @@
-# **Actividad 03 - Chatbot en Messenger**
+![image](https://github.com/user-attachments/assets/1b3be5fd-bd3b-45ce-93eb-2b0a55c6ecee)# **Actividad 03 - Chatbot en Messenger**
 
 ## 🎯 **Objetivo**
 El objetivo de esta actividad es que desarrolles e integres un chatbot utilizando Dialogflow en la plataforma de Facebook Messenger, aplicando los conceptos fundamentales sobre la creación de interacciones conversacionales automatizadas. A través de esta tarea, aprenderás a definir y gestionar intents (intenciones), configurar respuestas enriquecidas y utilizar contextos para mantener un flujo natural en las conversaciones. Además, comprenderás el proceso de integración entre Dialogflow y Facebook Messenger, permitiendo que tu chatbot interactúe con usuarios en tiempo real. Al finalizar la actividad, deberás demostrar el correcto funcionamiento de tu chatbot, documentando su diseño, las dificultades encontradas y las decisiones que tomaste durante el proceso de desarrollo..
@@ -98,6 +98,16 @@ Con la ayuda del instructor realiza lo siguiente:
     33. Por último, clic en “Confirm”
   
 3. Probando tu Chatbot en Messenger
+    1. Ahora abre Messenger con tu cuenta de facebook
+    2. En el buscador, busca el nombre de tu página que está relacionada con tu proyecto final. En mi caso es “Pizza AI”
+       <div align="center">
+        <img src="images/21.JPG", width="400">
+        </div>
+    4. Selecciona tu página y comienza a probar tu Chatbot
+       <div align="center">
+        <img src="images/22.JPG", width="400">
+        </div>
+    6. 
 
 
 
@@ -108,6 +118,19 @@ Con la ayuda del instructor realiza lo siguiente:
 
 ## ❓ **Momento de introspección**
 
+Al finalizar esta actividad, te invito a tomar un momento de introspección y reflexión sobre lo que has aprendido y cómo ha sido tu experiencia al desarrollar e integrar el chatbot en Messenger. Para guiar esta reflexión, considera las siguientes preguntas:
+
+1.	Proceso de creación: ¿Qué te sorprendió más durante la creación de tu chatbot? ¿Hubo algún concepto o parte del desarrollo que te resultara especialmente desafiante? ¿Cómo lo resolviste?
+
+2.	Interacción con usuarios: ¿Cómo crees que la interacción con usuarios reales en Messenger cambió la forma en que diseñaste las respuestas de tu chatbot? ¿Sentiste que tu chatbot pudo ofrecer respuestas naturales y útiles?
+
+3.	Uso de la tecnología: ¿Cómo te sentiste utilizando herramientas como Dialogflow? ¿Crees que podrías aplicarlas en otros contextos o proyectos? ¿Qué potencial le ves a esta tecnología en el futuro?
+
+4.	Impacto y aprendizaje: ¿Cómo crees que esta experiencia ha influido en tu capacidad para desarrollar soluciones basadas en inteligencia artificial? ¿Cómo te ha ayudado a comprender mejor el diseño de experiencias conversacionales?
+
+5.	Desafíos personales: ¿Qué habilidades personales sentiste que fueron más desafiadas en esta actividad? ¿Fue la creatividad, el pensamiento lógico, la resolución de problemas o alguna otra?
+
+Al responder estas preguntas, piensa en cómo lo aprendido puede ayudarte en futuros proyectos y en tu crecimiento como profesional.
 
 
 
