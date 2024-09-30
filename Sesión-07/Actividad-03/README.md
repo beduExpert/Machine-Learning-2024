@@ -107,8 +107,8 @@ Con la ayuda del instructor realiza lo siguiente:
        <div align="center">
         <img src="images/22.JPG", width="400">
         </div>
-    6. 
 
+4. Presenta tu Chatbot del proyecto final funcionando en Messenger a la clase
 
 
 
