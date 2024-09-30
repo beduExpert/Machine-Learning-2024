@@ -27,7 +27,7 @@ Con la ayuda del instructor realiza lo siguiente:
 2. Conectando tu Chatbot de Dialogflow con Messenger de tu página de Facebook. En este caso utilizaré PizzaBot como ejemplo
     1. De lado izquierdo, da clic en “Integrations”
        <div align="center">
-        <img src="images/4.JPG", width="400">
+        <img src="images/4.JPG", width="100">
         </div>
     2. Buscar “Messenger from Facebook” y dar clic
     3. Ir a https://developers.facebook.com/
