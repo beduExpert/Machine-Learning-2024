@@ -15,6 +15,7 @@ Con la ayuda del instructor realiza lo siguiente:
        <div align="center">
         <img src="images/1.JPG">
         </div>
+    4. A continuación, da clic en “Páginas” y posteriormente en “Crear nuevo perfio o página”
 
 
 
