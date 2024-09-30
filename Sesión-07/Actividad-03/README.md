@@ -9,7 +9,7 @@ El objetivo de esta actividad es que desarrolles e integres un chatbot utilizand
 Con la ayuda del instructor realiza lo siguiente:  
 
 1. Creación de una página de Facebook para tu proyecto final
-    1. Entra a Facebook
+    1. Entra a [Facebook](https://www.facebook.com/)
 
 
 
