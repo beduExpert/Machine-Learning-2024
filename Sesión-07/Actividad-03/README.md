@@ -16,7 +16,9 @@ Con la ayuda del instructor realiza lo siguiente:
         <img src="images/1.JPG", width="200">
         </div>
     4. A continuación, da clic en “Páginas” y posteriormente en “Crear nuevo perfil o página”
-      
+        <div align="center">
+        <img src="images/1.JPG", width="200">
+        </div>
     6. Da clic en “Página pública” y da clic en “Siguiente”
     
     8. Comienza a crear tu página de Facebook sobre tu proyecto final. Por el momento solo crea tu página, la podrás personalizar en otro momento
