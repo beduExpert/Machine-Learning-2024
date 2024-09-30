@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b3be5fd-bd3b-45ce-93eb-2b0a55c6ecee)# **Actividad 03 - Chatbot en Messenger**
+# **Actividad 03 - Chatbot en Messenger**
 
 ## 🎯 **Objetivo**
 El objetivo de esta actividad es que desarrolles e integres un chatbot utilizando Dialogflow en la plataforma de Facebook Messenger, aplicando los conceptos fundamentales sobre la creación de interacciones conversacionales automatizadas. A través de esta tarea, aprenderás a definir y gestionar intents (intenciones), configurar respuestas enriquecidas y utilizar contextos para mantener un flujo natural en las conversaciones. Además, comprenderás el proceso de integración entre Dialogflow y Facebook Messenger, permitiendo que tu chatbot interactúe con usuarios en tiempo real. Al finalizar la actividad, deberás demostrar el correcto funcionamiento de tu chatbot, documentando su diseño, las dificultades encontradas y las decisiones que tomaste durante el proceso de desarrollo..
